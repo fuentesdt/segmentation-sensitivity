@@ -1,0 +1,5 @@
+networkx==3.6.1
+matplotlib==3.11.2
+h5py==3.16.0
+meshio==5.3.5
+pypdf==6.18.1

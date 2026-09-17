@@ -1,0 +1,16 @@
+{
+  "expected_primary_cases": 42,
+  "actual_primary_cases": 42,
+  "serial_parallel_comparisons": 40,
+  "analytic": true,
+  "conservation": true,
+  "linear_residual": true,
+  "energy": true,
+  "mpi_agreement": true,
+  "amplitude_scaling": true,
+  "nested_break_monotonicity": true,
+  "detached_component_balance": true,
+  "toy_mesh_comparisons": 3,
+  "large_mesh_comparisons": 3,
+  "discretization_checks": 10
+}

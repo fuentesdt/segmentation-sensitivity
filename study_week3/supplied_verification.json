@@ -1,0 +1,14 @@
+{
+  "status": "passed",
+  "main_tissue_tetrahedra": 126569,
+  "main_network_cells": 2016,
+  "original_network_points_preserved": 797,
+  "original_tissue_connectivity_preserved": true,
+  "network_connectivity_preserved": true,
+  "coupling_quadrature_inside_tissue": true,
+  "inlet_dirichlet_value_verified": true,
+  "xdmf_hdf5_verified": true,
+  "self_contained_vtu_readback_verified": true,
+  "inlet_flux_refinement_relative_change": 9.984353644165722e-05,
+  "unchanged_toy_regression_maximum_relative_difference": 4.529709940470639e-14
+}

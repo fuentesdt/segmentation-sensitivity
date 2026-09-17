@@ -1,0 +1,738 @@
+{
+  "archive": "/projects/br1/pzz1/segmentation-sensitivity/oilblooddata.zip",
+  "archive_bytes": 1642536423,
+  "entries": 314,
+  "expanded_bytes": 1642472821,
+  "label_meanings": {
+    "0": "background",
+    "1": "liver parenchyma",
+    "2": "inflow vessels",
+    "3": "outflow vessels",
+    "4": "tumor"
+  },
+  "selected_for_simulation": false,
+  "note": "This initial study uses controlled synthetic geometry. Supplied centerlines are inventoried only.",
+  "centerlines": [
+    {
+      "path": "oilblooddata/thermoembo_run/pt002/pt002_inflow_centerline.vtp",
+      "n_points": 797,
+      "n_edges": 828,
+      "n_components": 1,
+      "n_isolated_vertices": 0,
+      "n_endpoints": 55,
+      "cycle_rank": 32,
+      "coordinate_min": [
+        -95.2275390625,
+        75.0341796875,
+        469.5
+      ],
+      "coordinate_max": [
+        66.1982421875,
+        144.7021484375,
+        532.5
+      ],
+      "point_fields": [
+        "pressure_mmhg",
+        "radius_mm"
+      ],
+      "cell_fields": [
+        "flow_mm3s",
+        "conductance_SI",
+        "radius_mm_edge",
+        "length_mm",
+        "is_phantom"
+      ]
+    },
+    {
+      "path": "oilblooddata/thermoembo_run/pt002/pt002_outflow_centerline.vtp",
+      "n_points": 1165,
+      "n_edges": 1223,
+      "n_components": 1,
+      "n_isolated_vertices": 0,
+      "n_endpoints": 82,
+      "cycle_rank": 59,
+      "coordinate_min": [
+        -96.9267578125,
+        72.4853515625,
+        466.5
+      ],
+      "coordinate_max": [
+        69.5966796875,
+        145.5517578125,
+        544.5
+      ],
+      "point_fields": [
+        "pressure_mmhg",
+        "radius_mm"
+      ],
+      "cell_fields": [
+        "flow_mm3s",
+        "conductance_SI",
+        "radius_mm_edge",
+        "length_mm",
+        "is_phantom"
+      ]
+    },
+    {
+      "path": "oilblooddata/thermoembo_run/pt004/pt004_inflow_centerline.vtp",
+      "n_points": 693,
+      "n_edges": 706,
+      "n_components": 3,
+      "n_isolated_vertices": 0,
+      "n_endpoints": 59,
+      "cycle_rank": 16,
+      "coordinate_min": [
+        -114.9189453125,
+        77.5029296875,
+        415.1999969482422
+      ],
+      "coordinate_max": [
+        60.0517578125,
+        141.5166015625,
+        535.1999969482422
+      ],
+      "point_fields": [
+        "pressure_mmhg",
+        "radius_mm"
+      ],
+      "cell_fields": [
+        "flow_mm3s",
+        "conductance_SI",
+        "radius_mm_edge",
+        "length_mm",
+        "is_phantom"
+      ]
+    },
+    {
+      "path": "oilblooddata/thermoembo_run/pt004/pt004_outflow_centerline.vtp",
+      "n_points": 1318,
+      "n_edges": 1379,
+      "n_components": 1,
+      "n_isolated_vertices": 0,
+      "n_endpoints": 89,
+      "cycle_rank": 62,
+      "coordinate_min": [
+        -116.6259765625,
+        69.8212890625,
+        418.1999969482422
+      ],
+      "coordinate_max": [
+        62.6123046875,
+        145.7841796875,
+        538.1999969482422
+      ],
+      "point_fields": [
+        "pressure_mmhg",
+        "radius_mm"
+      ],
+      "cell_fields": [
+        "flow_mm3s",
+        "conductance_SI",
+        "radius_mm_edge",
+        "length_mm",
+        "is_phantom"
+      ]
+    },
+    {
+      "path": "oilblooddata/thermoembo_run/pt006/pt006_inflow_centerline.vtp",
+      "n_points": 561,
+      "n_edges": 584,
+      "n_components": 1,
+      "n_isolated_vertices": 0,
+      "n_endpoints": 37,
+      "cycle_rank": 24,
+      "coordinate_min": [
+        19.7138671875,
+        41.7412109375,
+        427.29998779296875
+      ],
+      "coordinate_max": [
+        98.0947265625,
+        104.0439453125,
+        487.29998779296875
+      ],
+      "point_fields": [
+        "pressure_mmhg",
+        "radius_mm"
+      ],
+      "cell_fields": [
+        "flow_mm3s",
+        "conductance_SI",
+        "radius_mm_edge",
+        "length_mm",
+        "is_phantom"
+      ]
+    },
+    {
+      "path": "oilblooddata/thermoembo_run/pt006/pt006_outflow_centerline.vtp",
+      "n_points": 1059,
+      "n_edges": 1120,
+      "n_components": 1,
+      "n_isolated_vertices": 0,
+      "n_endpoints": 51,
+      "cycle_rank": 62,
+      "coordinate_min": [
+        -16.4619140625,
+        39.7314453125,
+        409.29998779296875
+      ],
+      "coordinate_max": [
+        103.4541015625,
+        125.4814453125,
+        499.29998779296875
+      ],
+      "point_fields": [
+        "pressure_mmhg",
+        "radius_mm"
+      ],
+      "cell_fields": [
+        "flow_mm3s",
+        "conductance_SI",
+        "radius_mm_edge",
+        "length_mm",
+        "is_phantom"
+      ]
+    },
+    {
+      "path": "oilblooddata/thermoembo_run/pt008/pt008_inflow_centerline.vtp",
+      "n_points": 437,
+      "n_edges": 459,
+      "n_components": 2,
+      "n_isolated_vertices": 0,
+      "n_endpoints": 32,
+      "cycle_rank": 24,
+      "coordinate_min": [
+        33.392578125,
+        38.302734375,
+        412.5
+      ],
+      "coordinate_max": [
+        97.623046875,
+        105.705078125,
+        487.5
+      ],
+      "point_fields": [
+        "pressure_mmhg",
+        "radius_mm"
+      ],
+      "cell_fields": [
+        "flow_mm3s",
+        "conductance_SI",
+        "radius_mm_edge",
+        "length_mm",
+        "is_phantom"
+      ]
+    },
+    {
+      "path": "oilblooddata/thermoembo_run/pt008/pt008_outflow_centerline.vtp",
+      "n_points": 971,
+      "n_edges": 1037,
+      "n_components": 1,
+      "n_isolated_vertices": 0,
+      "n_endpoints": 50,
+      "cycle_rank": 67,
+      "coordinate_min": [
+        -11.806640625,
+        37.509765625,
+        427.5
+      ],
+      "coordinate_max": [
+        99.208984375,
+        126.322265625,
+        499.5
+      ],
+      "point_fields": [
+        "pressure_mmhg",
+        "radius_mm"
+      ],
+      "cell_fields": [
+        "flow_mm3s",
+        "conductance_SI",
+        "radius_mm_edge",
+        "length_mm",
+        "is_phantom"
+      ]
+    },
+    {
+      "path": "oilblooddata/thermoembo_run/pt010/pt010_inflow_centerline.vtp",
+      "n_points": 848,
+      "n_edges": 882,
+      "n_components": 3,
+      "n_isolated_vertices": 0,
+      "n_endpoints": 76,
+      "cycle_rank": 37,
+      "coordinate_min": [
+        -81.7939453125,
+        33.2138671875,
+        422.1000061035156
+      ],
+      "coordinate_max": [
+        97.4267578125,
+        128.9619140625,
+        530.1000061035156
+      ],
+      "point_fields": [
+        "pressure_mmhg",
+        "radius_mm"
+      ],
+      "cell_fields": [
+        "flow_mm3s",
+        "conductance_SI",
+        "radius_mm_edge",
+        "length_mm",
+        "is_phantom"
+      ]
+    },
+    {
+      "path": "oilblooddata/thermoembo_run/pt010/pt010_outflow_centerline.vtp",
+      "n_points": 1650,
+      "n_edges": 1748,
+      "n_components": 1,
+      "n_isolated_vertices": 0,
+      "n_endpoints": 104,
+      "cycle_rank": 99,
+      "coordinate_min": [
+        -85.0673828125,
+        32.3955078125,
+        419.1000061035156
+      ],
+      "coordinate_max": [
+        105.6103515625,
+        130.5986328125,
+        539.1000061035156
+      ],
+      "point_fields": [
+        "pressure_mmhg",
+        "radius_mm"
+      ],
+      "cell_fields": [
+        "flow_mm3s",
+        "conductance_SI",
+        "radius_mm_edge",
+        "length_mm",
+        "is_phantom"
+      ]
+    },
+    {
+      "path": "oilblooddata/thermoembo_run/pt012/pt012_inflow_centerline.vtp",
+      "n_points": 848,
+      "n_edges": 912,
+      "n_components": 2,
+      "n_isolated_vertices": 0,
+      "n_endpoints": 68,
+      "cycle_rank": 66,
+      "coordinate_min": [
+        -85.0458984375,
+        34.8271484375,
+        425.0
+      ],
+      "coordinate_max": [
+        101.0205078125,
+        125.2998046875,
+        527.0
+      ],
+      "point_fields": [
+        "pressure_mmhg",
+        "radius_mm"
+      ],
+      "cell_fields": [
+        "flow_mm3s",
+        "conductance_SI",
+        "radius_mm_edge",
+        "length_mm",
+        "is_phantom"
+      ]
+    },
+    {
+      "path": "oilblooddata/thermoembo_run/pt012/pt012_outflow_centerline.vtp",
+      "n_points": 1502,
+      "n_edges": 1599,
+      "n_components": 2,
+      "n_isolated_vertices": 0,
+      "n_endpoints": 88,
+      "cycle_rank": 99,
+      "coordinate_min": [
+        -88.4599609375,
+        33.9736328125,
+        425.0
+      ],
+      "coordinate_max": [
+        102.7275390625,
+        127.8603515625,
+        536.0
+      ],
+      "point_fields": [
+        "pressure_mmhg",
+        "radius_mm"
+      ],
+      "cell_fields": [
+        "flow_mm3s",
+        "conductance_SI",
+        "radius_mm_edge",
+        "length_mm",
+        "is_phantom"
+      ]
+    },
+    {
+      "path": "oilblooddata/thermoembo_run/pt014/pt014_inflow_centerline.vtp",
+      "n_points": 1485,
+      "n_edges": 1641,
+      "n_components": 3,
+      "n_isolated_vertices": 0,
+      "n_endpoints": 68,
+      "cycle_rank": 159,
+      "coordinate_min": [
+        -68.7001953125,
+        44.6708984375,
+        426.1000061035156
+      ],
+      "coordinate_max": [
+        107.2470703125,
+        128.1435546875,
+        558.1000061035156
+      ],
+      "point_fields": [
+        "pressure_mmhg",
+        "radius_mm"
+      ],
+      "cell_fields": [
+        "flow_mm3s",
+        "conductance_SI",
+        "radius_mm_edge",
+        "length_mm",
+        "is_phantom"
+      ]
+    },
+    {
+      "path": "oilblooddata/thermoembo_run/pt014/pt014_outflow_centerline.vtp",
+      "n_points": 1287,
+      "n_edges": 1378,
+      "n_components": 4,
+      "n_isolated_vertices": 0,
+      "n_endpoints": 85,
+      "cycle_rank": 95,
+      "coordinate_min": [
+        -72.7919921875,
+        47.1259765625,
+        426.1000061035156
+      ],
+      "coordinate_max": [
+        105.6103515625,
+        130.5986328125,
+        570.1000061035156
+      ],
+      "point_fields": [
+        "pressure_mmhg",
+        "radius_mm"
+      ],
+      "cell_fields": [
+        "flow_mm3s",
+        "conductance_SI",
+        "radius_mm_edge",
+        "length_mm",
+        "is_phantom"
+      ]
+    },
+    {
+      "path": "oilblooddata/thermoembo_run/pt016/pt016_inflow_centerline.vtp",
+      "n_points": 796,
+      "n_edges": 829,
+      "n_components": 2,
+      "n_isolated_vertices": 0,
+      "n_endpoints": 54,
+      "cycle_rank": 35,
+      "coordinate_min": [
+        -67.1220703125,
+        48.4833984375,
+        431.3999938964844
+      ],
+      "coordinate_max": [
+        107.8486328125,
+        135.5419921875,
+        554.3999938964844
+      ],
+      "point_fields": [
+        "pressure_mmhg",
+        "radius_mm"
+      ],
+      "cell_fields": [
+        "flow_mm3s",
+        "conductance_SI",
+        "radius_mm_edge",
+        "length_mm",
+        "is_phantom"
+      ]
+    },
+    {
+      "path": "oilblooddata/thermoembo_run/pt016/pt016_outflow_centerline.vtp",
+      "n_points": 1458,
+      "n_edges": 1558,
+      "n_components": 2,
+      "n_isolated_vertices": 0,
+      "n_endpoints": 89,
+      "cycle_rank": 102,
+      "coordinate_min": [
+        -69.6826171875,
+        45.9228515625,
+        428.3999938964844
+      ],
+      "coordinate_max": [
+        110.4091796875,
+        136.3955078125,
+        560.3999938964844
+      ],
+      "point_fields": [
+        "pressure_mmhg",
+        "radius_mm"
+      ],
+      "cell_fields": [
+        "flow_mm3s",
+        "conductance_SI",
+        "radius_mm_edge",
+        "length_mm",
+        "is_phantom"
+      ]
+    },
+    {
+      "path": "oilblooddata/thermoembo_run/pt018/pt018_inflow_centerline.vtp",
+      "n_points": 1183,
+      "n_edges": 1475,
+      "n_components": 2,
+      "n_isolated_vertices": 0,
+      "n_endpoints": 69,
+      "cycle_rank": 294,
+      "coordinate_min": [
+        -104.1259765625,
+        71.9580078125,
+        451.5
+      ],
+      "coordinate_max": [
+        75.1826171875,
+        148.2060546875,
+        547.5
+      ],
+      "point_fields": [
+        "pressure_mmhg",
+        "radius_mm"
+      ],
+      "cell_fields": [
+        "flow_mm3s",
+        "conductance_SI",
+        "radius_mm_edge",
+        "length_mm",
+        "is_phantom"
+      ]
+    },
+    {
+      "path": "oilblooddata/thermoembo_run/pt018/pt018_outflow_centerline.vtp",
+      "n_points": 1283,
+      "n_edges": 1361,
+      "n_components": 1,
+      "n_isolated_vertices": 0,
+      "n_endpoints": 91,
+      "cycle_rank": 79,
+      "coordinate_min": [
+        -106.6396484375,
+        72.7958984375,
+        448.5
+      ],
+      "coordinate_max": [
+        74.3447265625,
+        147.3681640625,
+        556.5
+      ],
+      "point_fields": [
+        "pressure_mmhg",
+        "radius_mm"
+      ],
+      "cell_fields": [
+        "flow_mm3s",
+        "conductance_SI",
+        "radius_mm_edge",
+        "length_mm",
+        "is_phantom"
+      ]
+    },
+    {
+      "path": "oilblooddata/thermoembo_run/pt020/pt020_inflow_centerline.vtp",
+      "n_points": 773,
+      "n_edges": 815,
+      "n_components": 1,
+      "n_isolated_vertices": 0,
+      "n_endpoints": 47,
+      "cycle_rank": 43,
+      "coordinate_min": [
+        -106.3203125,
+        75.5390625,
+        452.20001220703125
+      ],
+      "coordinate_max": [
+        61.7890625,
+        145.9296875,
+        551.2000122070312
+      ],
+      "point_fields": [
+        "pressure_mmhg",
+        "radius_mm"
+      ],
+      "cell_fields": [
+        "flow_mm3s",
+        "conductance_SI",
+        "radius_mm_edge",
+        "length_mm",
+        "is_phantom"
+      ]
+    },
+    {
+      "path": "oilblooddata/thermoembo_run/pt020/pt020_outflow_centerline.vtp",
+      "n_points": 1266,
+      "n_edges": 1329,
+      "n_components": 1,
+      "n_isolated_vertices": 0,
+      "n_endpoints": 80,
+      "cycle_rank": 64,
+      "coordinate_min": [
+        -112.9453125,
+        74.7109375,
+        449.20001220703125
+      ],
+      "coordinate_max": [
+        67.5859375,
+        146.7578125,
+        554.2000122070312
+      ],
+      "point_fields": [
+        "pressure_mmhg",
+        "radius_mm"
+      ],
+      "cell_fields": [
+        "flow_mm3s",
+        "conductance_SI",
+        "radius_mm_edge",
+        "length_mm",
+        "is_phantom"
+      ]
+    },
+    {
+      "path": "oilblooddata/thermoembo_run/pt022/pt022_inflow_centerline.vtp",
+      "n_points": 808,
+      "n_edges": 881,
+      "n_components": 1,
+      "n_isolated_vertices": 0,
+      "n_endpoints": 60,
+      "cycle_rank": 74,
+      "coordinate_min": [
+        -17.5478515625,
+        59.5791015625,
+        500.0
+      ],
+      "coordinate_max": [
+        62.6826171875,
+        136.3955078125,
+        590.0
+      ],
+      "point_fields": [
+        "pressure_mmhg",
+        "radius_mm"
+      ],
+      "cell_fields": [
+        "flow_mm3s",
+        "conductance_SI",
+        "radius_mm_edge",
+        "length_mm",
+        "is_phantom"
+      ]
+    },
+    {
+      "path": "oilblooddata/thermoembo_run/pt022/pt022_outflow_centerline.vtp",
+      "n_points": 1284,
+      "n_edges": 1438,
+      "n_components": 2,
+      "n_isolated_vertices": 0,
+      "n_endpoints": 84,
+      "cycle_rank": 156,
+      "coordinate_min": [
+        -81.5615234375,
+        59.5791015625,
+        497.0
+      ],
+      "coordinate_max": [
+        63.5361328125,
+        144.0771484375,
+        605.0
+      ],
+      "point_fields": [
+        "pressure_mmhg",
+        "radius_mm"
+      ],
+      "cell_fields": [
+        "flow_mm3s",
+        "conductance_SI",
+        "radius_mm_edge",
+        "length_mm",
+        "is_phantom"
+      ]
+    },
+    {
+      "path": "oilblooddata/thermoembo_run/pt024/pt024_inflow_centerline.vtp",
+      "n_points": 679,
+      "n_edges": 745,
+      "n_components": 1,
+      "n_isolated_vertices": 0,
+      "n_endpoints": 48,
+      "cycle_rank": 67,
+      "coordinate_min": [
+        -41.171875,
+        61.921875,
+        500.5
+      ],
+      "coordinate_max": [
+        52.171875,
+        130.796875,
+        590.5
+      ],
+      "point_fields": [
+        "pressure_mmhg",
+        "radius_mm"
+      ],
+      "cell_fields": [
+        "flow_mm3s",
+        "conductance_SI",
+        "radius_mm_edge",
+        "length_mm",
+        "is_phantom"
+      ]
+    },
+    {
+      "path": "oilblooddata/thermoembo_run/pt024/pt024_outflow_centerline.vtp",
+      "n_points": 1089,
+      "n_edges": 1153,
+      "n_components": 1,
+      "n_isolated_vertices": 0,
+      "n_endpoints": 89,
+      "cycle_rank": 65,
+      "coordinate_min": [
+        -89.203125,
+        58.296875,
+        509.5
+      ],
+      "coordinate_max": [
+        61.234375,
+        140.765625,
+        602.5
+      ],
+      "point_fields": [
+        "pressure_mmhg",
+        "radius_mm"
+      ],
+      "cell_fields": [
+        "flow_mm3s",
+        "conductance_SI",
+        "radius_mm_edge",
+        "length_mm",
+        "is_phantom"
+      ]
+    }
+  ],
+  "sha256": "0d88cedcddf90b9ded1297f47e4a0b103c40b8643bb625f0c2230f6dfc382677"
+}

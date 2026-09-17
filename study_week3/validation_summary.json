@@ -1,0 +1,959 @@
+{
+  "mpi_comparisons": [
+    {
+      "geometry": "line",
+      "case": "intact",
+      "ranks": 2,
+      "metric": "inlet_flux",
+      "relative_difference": 5.329070518200751e-15
+    },
+    {
+      "geometry": "line",
+      "case": "intact",
+      "ranks": 2,
+      "metric": "wall_exchange",
+      "relative_difference": 6.661338147750939e-16
+    },
+    {
+      "geometry": "line",
+      "case": "intact",
+      "ranks": 2,
+      "metric": "tissue_mean_pressure",
+      "relative_difference": 2.7755575615628914e-15
+    },
+    {
+      "geometry": "line",
+      "case": "intact",
+      "ranks": 2,
+      "metric": "tissue_l2_norm",
+      "relative_difference": 2.220446049250313e-15
+    },
+    {
+      "geometry": "line",
+      "case": "gap_at_0.5",
+      "ranks": 2,
+      "metric": "inlet_flux",
+      "relative_difference": 1.2434497875801753e-14
+    },
+    {
+      "geometry": "line",
+      "case": "gap_at_0.5",
+      "ranks": 2,
+      "metric": "wall_exchange",
+      "relative_difference": 8.881784197001252e-16
+    },
+    {
+      "geometry": "line",
+      "case": "gap_at_0.5",
+      "ranks": 2,
+      "metric": "tissue_mean_pressure",
+      "relative_difference": 8.881784197001252e-16
+    },
+    {
+      "geometry": "line",
+      "case": "gap_at_0.5",
+      "ranks": 2,
+      "metric": "tissue_l2_norm",
+      "relative_difference": 6.5503158452884236e-15
+    },
+    {
+      "geometry": "line",
+      "case": "intact",
+      "ranks": 8,
+      "metric": "inlet_flux",
+      "relative_difference": 6.705747068735946e-14
+    },
+    {
+      "geometry": "line",
+      "case": "intact",
+      "ranks": 8,
+      "metric": "wall_exchange",
+      "relative_difference": 3.68594044175552e-14
+    },
+    {
+      "geometry": "line",
+      "case": "intact",
+      "ranks": 8,
+      "metric": "tissue_mean_pressure",
+      "relative_difference": 3.397282455352979e-14
+    },
+    {
+      "geometry": "line",
+      "case": "intact",
+      "ranks": 8,
+      "metric": "tissue_l2_norm",
+      "relative_difference": 3.397282455352979e-14
+    },
+    {
+      "geometry": "line",
+      "case": "gap_at_0.5",
+      "ranks": 8,
+      "metric": "inlet_flux",
+      "relative_difference": 4.6407322429331543e-14
+    },
+    {
+      "geometry": "line",
+      "case": "gap_at_0.5",
+      "ranks": 8,
+      "metric": "wall_exchange",
+      "relative_difference": 9.103828801926284e-15
+    },
+    {
+      "geometry": "line",
+      "case": "gap_at_0.5",
+      "ranks": 8,
+      "metric": "tissue_mean_pressure",
+      "relative_difference": 1.2323475573339238e-14
+    },
+    {
+      "geometry": "line",
+      "case": "gap_at_0.5",
+      "ranks": 8,
+      "metric": "tissue_l2_norm",
+      "relative_difference": 1.965094753586527e-14
+    },
+    {
+      "geometry": "y",
+      "case": "intact",
+      "ranks": 2,
+      "metric": "inlet_flux",
+      "relative_difference": 4.440892098500626e-16
+    },
+    {
+      "geometry": "y",
+      "case": "intact",
+      "ranks": 2,
+      "metric": "wall_exchange",
+      "relative_difference": 3.319566843629218e-14
+    },
+    {
+      "geometry": "y",
+      "case": "intact",
+      "ranks": 2,
+      "metric": "tissue_mean_pressure",
+      "relative_difference": 3.4083846855992306e-14
+    },
+    {
+      "geometry": "y",
+      "case": "intact",
+      "ranks": 2,
+      "metric": "tissue_l2_norm",
+      "relative_difference": 3.2862601528904634e-14
+    },
+    {
+      "geometry": "y",
+      "case": "gap_trunk",
+      "ranks": 2,
+      "metric": "inlet_flux",
+      "relative_difference": 1.7852386235972517e-13
+    },
+    {
+      "geometry": "y",
+      "case": "gap_trunk",
+      "ranks": 2,
+      "metric": "wall_exchange",
+      "relative_difference": 1.0658141036401503e-14
+    },
+    {
+      "geometry": "y",
+      "case": "gap_trunk",
+      "ranks": 2,
+      "metric": "tissue_mean_pressure",
+      "relative_difference": 9.769962616701378e-15
+    },
+    {
+      "geometry": "y",
+      "case": "gap_trunk",
+      "ranks": 2,
+      "metric": "tissue_l2_norm",
+      "relative_difference": 8.659739592076221e-15
+    },
+    {
+      "geometry": "y",
+      "case": "gap_upper",
+      "ranks": 2,
+      "metric": "inlet_flux",
+      "relative_difference": 4.085620730620576e-14
+    },
+    {
+      "geometry": "y",
+      "case": "gap_upper",
+      "ranks": 2,
+      "metric": "wall_exchange",
+      "relative_difference": 3.608224830031759e-14
+    },
+    {
+      "geometry": "y",
+      "case": "gap_upper",
+      "ranks": 2,
+      "metric": "tissue_mean_pressure",
+      "relative_difference": 3.4638958368304884e-14
+    },
+    {
+      "geometry": "y",
+      "case": "gap_upper",
+      "ranks": 2,
+      "metric": "tissue_l2_norm",
+      "relative_difference": 3.7192471324942744e-14
+    },
+    {
+      "geometry": "y",
+      "case": "intact",
+      "ranks": 8,
+      "metric": "inlet_flux",
+      "relative_difference": 3.042011087472929e-14
+    },
+    {
+      "geometry": "y",
+      "case": "intact",
+      "ranks": 8,
+      "metric": "wall_exchange",
+      "relative_difference": 1.6153745008296028e-13
+    },
+    {
+      "geometry": "y",
+      "case": "intact",
+      "ranks": 8,
+      "metric": "tissue_mean_pressure",
+      "relative_difference": 1.6364687382974807e-13
+    },
+    {
+      "geometry": "y",
+      "case": "intact",
+      "ranks": 8,
+      "metric": "tissue_l2_norm",
+      "relative_difference": 1.567634910770721e-13
+    },
+    {
+      "geometry": "y",
+      "case": "gap_trunk",
+      "ranks": 8,
+      "metric": "inlet_flux",
+      "relative_difference": 5.1181281435219717e-14
+    },
+    {
+      "geometry": "y",
+      "case": "gap_trunk",
+      "ranks": 8,
+      "metric": "wall_exchange",
+      "relative_difference": 3.1086244689504383e-15
+    },
+    {
+      "geometry": "y",
+      "case": "gap_trunk",
+      "ranks": 8,
+      "metric": "tissue_mean_pressure",
+      "relative_difference": 2.220446049250313e-15
+    },
+    {
+      "geometry": "y",
+      "case": "gap_trunk",
+      "ranks": 8,
+      "metric": "tissue_l2_norm",
+      "relative_difference": 5.551115123125783e-15
+    },
+    {
+      "geometry": "y",
+      "case": "gap_upper",
+      "ranks": 8,
+      "metric": "inlet_flux",
+      "relative_difference": 7.771561172376096e-15
+    },
+    {
+      "geometry": "y",
+      "case": "gap_upper",
+      "ranks": 8,
+      "metric": "wall_exchange",
+      "relative_difference": 5.10702591327572e-14
+    },
+    {
+      "geometry": "y",
+      "case": "gap_upper",
+      "ranks": 8,
+      "metric": "tissue_mean_pressure",
+      "relative_difference": 5.262457136723242e-14
+    },
+    {
+      "geometry": "y",
+      "case": "gap_upper",
+      "ranks": 8,
+      "metric": "tissue_l2_norm",
+      "relative_difference": 4.5075054799781356e-14
+    }
+  ],
+  "maximum_serial_parallel_relative_difference": 1.7852386235972517e-13,
+  "analytic": {
+    "parameters": {
+      "radius": 0.025,
+      "kappa": 0.05,
+      "bulk_diffusivity": 100000000.0,
+      "axial_diffusivity": 1.0,
+      "inlet_value": 1.0,
+      "circle_degree": 20
+    },
+    "formula": "U(s)=cosh((L-s)/ell)/cosh(L/ell); Qin=A/ell*tanh(L/ell)",
+    "samples": [
+      {
+        "h": 0.04,
+        "computed_flux": 0.003620601350040414,
+        "exact_flux": 0.003619383949460119,
+        "relative_flux_error": 0.0003363557437658926,
+        "maximum_nodal_pressure_error": 0.00015265578609607866,
+        "conservation_error": 3.437727531089458e-14
+      },
+      {
+        "h": 0.02,
+        "computed_flux": 0.0036196882956222244,
+        "exact_flux": 0.003619383949460119,
+        "relative_flux_error": 8.408783548663479e-05,
+        "maximum_nodal_pressure_error": 3.814796205864335e-05,
+        "conservation_error": 7.703889837711462e-14
+      },
+      {
+        "h": 0.01,
+        "computed_flux": 0.0036194600357177527,
+        "exact_flux": 0.003619383949460119,
+        "relative_flux_error": 2.102188071129163e-05,
+        "maximum_nodal_pressure_error": 9.535987098574505e-06,
+        "conservation_error": 5.136649851168916e-13
+      },
+      {
+        "h": 0.005,
+        "computed_flux": 0.0036194029709766882,
+        "exact_flux": 0.003619383949460119,
+        "relative_flux_error": 5.255456960284732e-06,
+        "maximum_nodal_pressure_error": 2.3839298396999276e-06,
+        "conservation_error": 1.3717120276623652e-12
+      }
+    ],
+    "observed_flux_orders": [
+      2.0000188803807393,
+      2.0000053639998194,
+      2.000003628391012
+    ],
+    "status": "passed"
+  },
+  "tissue_refinement": [
+    {
+      "geometry": "line",
+      "case": "intact",
+      "tissue_n": 12,
+      "inlet_flux": 0.003614213577161567,
+      "relative_inlet_flux_change": 0.0,
+      "tissue_relative_l2_error": 0.0,
+      "tissue_mean_pressure": 0.00015968691699383268
+    },
+    {
+      "geometry": "line",
+      "case": "gap_at_0.5",
+      "tissue_n": 12,
+      "inlet_flux": 0.0025590093094318,
+      "relative_inlet_flux_change": -0.2919595771532889,
+      "tissue_relative_l2_error": 0.3771867264931712,
+      "tissue_mean_pressure": 0.00011250812612731813
+    },
+    {
+      "geometry": "line",
+      "case": "intact",
+      "tissue_n": 24,
+      "inlet_flux": 0.0036137682306357985,
+      "relative_inlet_flux_change": 0.0,
+      "tissue_relative_l2_error": 0.0,
+      "tissue_mean_pressure": 0.00016231545531544643
+    },
+    {
+      "geometry": "line",
+      "case": "gap_at_0.5",
+      "tissue_n": 24,
+      "inlet_flux": 0.002558563675711152,
+      "relative_inlet_flux_change": -0.2919956365710249,
+      "tissue_relative_l2_error": 0.38206295810057644,
+      "tissue_mean_pressure": 0.0001143668428390105
+    },
+    {
+      "geometry": "line",
+      "case": "intact",
+      "tissue_n": 36,
+      "inlet_flux": 0.0036133909854326046,
+      "relative_inlet_flux_change": 0.0,
+      "tissue_relative_l2_error": 0.0,
+      "tissue_mean_pressure": 0.00016287899882425926
+    },
+    {
+      "geometry": "line",
+      "case": "gap_at_0.5",
+      "tissue_n": 36,
+      "inlet_flux": 0.0025582119256473174,
+      "relative_inlet_flux_change": -0.2920190657582433,
+      "tissue_relative_l2_error": 0.38365232857123016,
+      "tissue_mean_pressure": 0.0001147620371371974
+    },
+    {
+      "geometry": "y",
+      "case": "intact",
+      "tissue_n": 12,
+      "inlet_flux": 0.004237321519700822,
+      "relative_inlet_flux_change": 0.0,
+      "tissue_relative_l2_error": 0.0,
+      "tissue_mean_pressure": 0.00018327284162967625
+    },
+    {
+      "geometry": "y",
+      "case": "gap_trunk",
+      "tissue_n": 12,
+      "inlet_flux": 0.0014225084337874897,
+      "relative_inlet_flux_change": -0.6642906545623835,
+      "tissue_relative_l2_error": 0.7477019926602784,
+      "tissue_mean_pressure": 5.210515139418822e-05
+    },
+    {
+      "geometry": "y",
+      "case": "gap_upper",
+      "tissue_n": 12,
+      "inlet_flux": 0.004040583374813982,
+      "relative_inlet_flux_change": -0.046429836388891865,
+      "tissue_relative_l2_error": 0.10261847258087237,
+      "tissue_mean_pressure": 0.0001808139516907993
+    },
+    {
+      "geometry": "y",
+      "case": "intact",
+      "tissue_n": 24,
+      "inlet_flux": 0.004236799925682992,
+      "relative_inlet_flux_change": 0.0,
+      "tissue_relative_l2_error": 0.0,
+      "tissue_mean_pressure": 0.00018640735563311487
+    },
+    {
+      "geometry": "y",
+      "case": "gap_trunk",
+      "tissue_n": 24,
+      "inlet_flux": 0.0014222246974191371,
+      "relative_inlet_flux_change": -0.6643162947587458,
+      "tissue_relative_l2_error": 0.748327651337181,
+      "tissue_mean_pressure": 5.307485666542857e-05
+    },
+    {
+      "geometry": "y",
+      "case": "gap_upper",
+      "tissue_n": 24,
+      "inlet_flux": 0.004040024085398546,
+      "relative_inlet_flux_change": -0.046444449522294984,
+      "tissue_relative_l2_error": 0.10895180776331655,
+      "tissue_mean_pressure": 0.00018386763821831082
+    },
+    {
+      "geometry": "y",
+      "case": "intact",
+      "tissue_n": 36,
+      "inlet_flux": 0.004236448545090821,
+      "relative_inlet_flux_change": 0.0,
+      "tissue_relative_l2_error": 0.0,
+      "tissue_mean_pressure": 0.000187054797249058
+    },
+    {
+      "geometry": "y",
+      "case": "gap_trunk",
+      "tissue_n": 36,
+      "inlet_flux": 0.0014220116081695873,
+      "relative_inlet_flux_change": -0.6643387514248442,
+      "tissue_relative_l2_error": 0.7482471940523937,
+      "tissue_mean_pressure": 5.3276043873492e-05
+    },
+    {
+      "geometry": "y",
+      "case": "gap_upper",
+      "tissue_n": 36,
+      "inlet_flux": 0.004039649308541208,
+      "relative_inlet_flux_change": -0.04645382434248202,
+      "tissue_relative_l2_error": 0.11058933013236663,
+      "tissue_mean_pressure": 0.00018450115014808038
+    }
+  ],
+  "large_tree_refinement": [
+    {
+      "geometry": "tree",
+      "case": "intact",
+      "tissue_n": 32,
+      "inlet_flux": 0.007832736912762511,
+      "relative_inlet_flux_change": 0.0,
+      "tissue_relative_l2_error": 0.0,
+      "tissue_mean_pressure": 0.00030146145926187597
+    },
+    {
+      "geometry": "tree",
+      "case": "seed_11_breaks_8",
+      "tissue_n": 32,
+      "inlet_flux": 0.006938235419152106,
+      "relative_inlet_flux_change": -0.11420037511446623,
+      "tissue_relative_l2_error": 0.21502677946051535,
+      "tissue_mean_pressure": 0.00027472631389409115
+    },
+    {
+      "geometry": "tree",
+      "case": "seed_11_breaks_32",
+      "tissue_n": 32,
+      "inlet_flux": 0.0036650694090479964,
+      "relative_inlet_flux_change": -0.5320831722209126,
+      "tissue_relative_l2_error": 0.5889120029742144,
+      "tissue_mean_pressure": 0.00014874731034857455
+    },
+    {
+      "geometry": "tree",
+      "case": "intact",
+      "tissue_n": 40,
+      "inlet_flux": 0.007832553643085877,
+      "relative_inlet_flux_change": 0.0,
+      "tissue_relative_l2_error": 0.0,
+      "tissue_mean_pressure": 0.00030185815429948417
+    },
+    {
+      "geometry": "tree",
+      "case": "seed_11_breaks_8",
+      "tissue_n": 40,
+      "inlet_flux": 0.006938008918804758,
+      "relative_inlet_flux_change": -0.11420856658553136,
+      "tissue_relative_l2_error": 0.21559801384105534,
+      "tissue_mean_pressure": 0.0002750792310916763
+    },
+    {
+      "geometry": "tree",
+      "case": "seed_11_breaks_32",
+      "tissue_n": 40,
+      "inlet_flux": 0.0036647863462738106,
+      "relative_inlet_flux_change": -0.532108362959139,
+      "tissue_relative_l2_error": 0.5890664622895703,
+      "tissue_mean_pressure": 0.00014894760818213616
+    },
+    {
+      "geometry": "tree",
+      "case": "intact",
+      "tissue_n": 48,
+      "inlet_flux": 0.007832484936072557,
+      "relative_inlet_flux_change": 0.0,
+      "tissue_relative_l2_error": 0.0,
+      "tissue_mean_pressure": 0.0003020560426738336
+    },
+    {
+      "geometry": "tree",
+      "case": "seed_11_breaks_8",
+      "tissue_n": 48,
+      "inlet_flux": 0.006937925142471585,
+      "relative_inlet_flux_change": -0.1142114923810541,
+      "tissue_relative_l2_error": 0.21595235841963006,
+      "tissue_mean_pressure": 0.00027524821139421406
+    },
+    {
+      "geometry": "tree",
+      "case": "seed_11_breaks_32",
+      "tissue_n": 48,
+      "inlet_flux": 0.003664690206893819,
+      "relative_inlet_flux_change": -0.5321165330282264,
+      "tissue_relative_l2_error": 0.5892000545606826,
+      "tissue_mean_pressure": 0.00014903127372629574
+    }
+  ],
+  "discretization_checks": [
+    {
+      "test": "network_refinement",
+      "geometry": "line",
+      "case": "intact",
+      "relative_inlet_flux_difference": 1.6136262539934165e-05,
+      "sensitivity_difference_percentage_points": 0.0,
+      "tissue_l2_error_difference": 0.0
+    },
+    {
+      "test": "network_refinement",
+      "geometry": "line",
+      "case": "gap_at_0.5",
+      "relative_inlet_flux_difference": 2.2216168973798744e-05,
+      "sensitivity_difference_percentage_points": 0.00043046697456583516,
+      "tissue_l2_error_difference": 3.8373345772391154e-05
+    },
+    {
+      "test": "network_refinement",
+      "geometry": "y",
+      "case": "intact",
+      "relative_inlet_flux_difference": 1.2794921206427112e-05,
+      "sensitivity_difference_percentage_points": 0.0,
+      "tissue_l2_error_difference": 0.0
+    },
+    {
+      "test": "network_refinement",
+      "geometry": "y",
+      "case": "gap_trunk",
+      "relative_inlet_flux_difference": 2.5656696559850367e-05,
+      "sensitivity_difference_percentage_points": 0.0004317543649268174,
+      "tissue_l2_error_difference": 9.763556518826988e-06
+    },
+    {
+      "test": "network_refinement",
+      "geometry": "y",
+      "case": "gap_upper",
+      "relative_inlet_flux_difference": 1.413661637028607e-05,
+      "sensitivity_difference_percentage_points": 0.00012793972402613818,
+      "tissue_l2_error_difference": 3.500892076147011e-05
+    },
+    {
+      "test": "quadrature",
+      "geometry": "line",
+      "case": "intact",
+      "relative_inlet_flux_difference": 1.5006178094578715e-05,
+      "sensitivity_difference_percentage_points": 0.0,
+      "tissue_l2_error_difference": 0.0
+    },
+    {
+      "test": "quadrature",
+      "geometry": "line",
+      "case": "gap_at_0.5",
+      "relative_inlet_flux_difference": 1.9076910441784278e-05,
+      "sensitivity_difference_percentage_points": 0.000288205301557376,
+      "tissue_l2_error_difference": 7.123499570743652e-05
+    },
+    {
+      "test": "quadrature",
+      "geometry": "y",
+      "case": "intact",
+      "relative_inlet_flux_difference": 7.652420798809345e-06,
+      "sensitivity_difference_percentage_points": 0.0,
+      "tissue_l2_error_difference": 0.0
+    },
+    {
+      "test": "quadrature",
+      "geometry": "y",
+      "case": "gap_trunk",
+      "relative_inlet_flux_difference": 1.900578905478234e-05,
+      "sensitivity_difference_percentage_points": 0.0003811111558782443,
+      "tissue_l2_error_difference": 0.00010272525183974146
+    },
+    {
+      "test": "quadrature",
+      "geometry": "y",
+      "case": "gap_upper",
+      "relative_inlet_flux_difference": 8.511186860848952e-06,
+      "sensitivity_difference_percentage_points": 8.188748785720179e-05,
+      "tissue_l2_error_difference": 3.151551662088081e-05
+    }
+  ],
+  "inlet_amplitude_scaling": [
+    {
+      "geometry": "line",
+      "case": "intact",
+      "metric": "inlet_flux",
+      "relative_scaling_error": 0.0
+    },
+    {
+      "geometry": "line",
+      "case": "intact",
+      "metric": "wall_exchange",
+      "relative_scaling_error": 0.0
+    },
+    {
+      "geometry": "line",
+      "case": "intact",
+      "metric": "tissue_mean_pressure",
+      "relative_scaling_error": 0.0
+    },
+    {
+      "geometry": "line",
+      "case": "intact",
+      "metric": "tissue_l2_norm",
+      "relative_scaling_error": 0.0
+    },
+    {
+      "geometry": "line",
+      "case": "gap_at_0.5",
+      "metric": "inlet_flux",
+      "relative_scaling_error": 0.0
+    },
+    {
+      "geometry": "line",
+      "case": "gap_at_0.5",
+      "metric": "wall_exchange",
+      "relative_scaling_error": 0.0
+    },
+    {
+      "geometry": "line",
+      "case": "gap_at_0.5",
+      "metric": "tissue_mean_pressure",
+      "relative_scaling_error": 0.0
+    },
+    {
+      "geometry": "line",
+      "case": "gap_at_0.5",
+      "metric": "tissue_l2_norm",
+      "relative_scaling_error": 0.0
+    },
+    {
+      "geometry": "y",
+      "case": "intact",
+      "metric": "inlet_flux",
+      "relative_scaling_error": 0.0
+    },
+    {
+      "geometry": "y",
+      "case": "intact",
+      "metric": "wall_exchange",
+      "relative_scaling_error": 0.0
+    },
+    {
+      "geometry": "y",
+      "case": "intact",
+      "metric": "tissue_mean_pressure",
+      "relative_scaling_error": 0.0
+    },
+    {
+      "geometry": "y",
+      "case": "intact",
+      "metric": "tissue_l2_norm",
+      "relative_scaling_error": 0.0
+    },
+    {
+      "geometry": "y",
+      "case": "gap_trunk",
+      "metric": "inlet_flux",
+      "relative_scaling_error": 0.0
+    },
+    {
+      "geometry": "y",
+      "case": "gap_trunk",
+      "metric": "wall_exchange",
+      "relative_scaling_error": 0.0
+    },
+    {
+      "geometry": "y",
+      "case": "gap_trunk",
+      "metric": "tissue_mean_pressure",
+      "relative_scaling_error": 0.0
+    },
+    {
+      "geometry": "y",
+      "case": "gap_trunk",
+      "metric": "tissue_l2_norm",
+      "relative_scaling_error": 0.0
+    },
+    {
+      "geometry": "y",
+      "case": "gap_upper",
+      "metric": "inlet_flux",
+      "relative_scaling_error": 0.0
+    },
+    {
+      "geometry": "y",
+      "case": "gap_upper",
+      "metric": "wall_exchange",
+      "relative_scaling_error": 0.0
+    },
+    {
+      "geometry": "y",
+      "case": "gap_upper",
+      "metric": "tissue_mean_pressure",
+      "relative_scaling_error": 0.0
+    },
+    {
+      "geometry": "y",
+      "case": "gap_upper",
+      "metric": "tissue_l2_norm",
+      "relative_scaling_error": 0.0
+    }
+  ],
+  "nested_break_monotonicity_passed": true,
+  "detached_component_balances": [
+    {
+      "geometry": "line",
+      "case": "gap_at_0.2",
+      "maximum_detached_net_exchange_over_inlet": 2.975652708813125e-16
+    },
+    {
+      "geometry": "line",
+      "case": "gap_at_0.5",
+      "maximum_detached_net_exchange_over_inlet": 1.9826106044574994e-16
+    },
+    {
+      "geometry": "line",
+      "case": "gap_at_0.8",
+      "maximum_detached_net_exchange_over_inlet": 7.56104892782821e-17
+    },
+    {
+      "geometry": "line",
+      "case": "gap_width_0.01",
+      "maximum_detached_net_exchange_over_inlet": 2.076359994161432e-16
+    },
+    {
+      "geometry": "line",
+      "case": "gap_width_0.04",
+      "maximum_detached_net_exchange_over_inlet": 2.0152212696592406e-16
+    },
+    {
+      "geometry": "y",
+      "case": "gap_trunk",
+      "maximum_detached_net_exchange_over_inlet": 9.049269712627938e-16
+    },
+    {
+      "geometry": "y",
+      "case": "gap_upper",
+      "maximum_detached_net_exchange_over_inlet": 7.088240398823219e-17
+    },
+    {
+      "geometry": "y",
+      "case": "gap_lower",
+      "maximum_detached_net_exchange_over_inlet": 7.560588977988473e-17
+    },
+    {
+      "geometry": "y",
+      "case": "gap_both_daughters",
+      "maximum_detached_net_exchange_over_inlet": 9.852512486550206e-17
+    },
+    {
+      "geometry": "tree",
+      "case": "seed_11_breaks_1",
+      "maximum_detached_net_exchange_over_inlet": 3.221708979722691e-17
+    },
+    {
+      "geometry": "tree",
+      "case": "seed_11_breaks_2",
+      "maximum_detached_net_exchange_over_inlet": 1.3089418829853444e-17
+    },
+    {
+      "geometry": "tree",
+      "case": "seed_11_breaks_4",
+      "maximum_detached_net_exchange_over_inlet": 5.2469361326917084e-17
+    },
+    {
+      "geometry": "tree",
+      "case": "seed_11_breaks_8",
+      "maximum_detached_net_exchange_over_inlet": 1.0537657027557469e-16
+    },
+    {
+      "geometry": "tree",
+      "case": "seed_11_breaks_16",
+      "maximum_detached_net_exchange_over_inlet": 1.9304178294055318e-16
+    },
+    {
+      "geometry": "tree",
+      "case": "seed_11_breaks_32",
+      "maximum_detached_net_exchange_over_inlet": 8.438569260328091e-17
+    },
+    {
+      "geometry": "tree",
+      "case": "seed_29_breaks_1",
+      "maximum_detached_net_exchange_over_inlet": 2.8121305402136564e-17
+    },
+    {
+      "geometry": "tree",
+      "case": "seed_29_breaks_2",
+      "maximum_detached_net_exchange_over_inlet": 9.867736733477586e-17
+    },
+    {
+      "geometry": "tree",
+      "case": "seed_29_breaks_4",
+      "maximum_detached_net_exchange_over_inlet": 9.899855254843427e-17
+    },
+    {
+      "geometry": "tree",
+      "case": "seed_29_breaks_8",
+      "maximum_detached_net_exchange_over_inlet": 6.316724698795237e-17
+    },
+    {
+      "geometry": "tree",
+      "case": "seed_29_breaks_16",
+      "maximum_detached_net_exchange_over_inlet": 1.2657266760519896e-16
+    },
+    {
+      "geometry": "tree",
+      "case": "seed_29_breaks_32",
+      "maximum_detached_net_exchange_over_inlet": 2.0946907812282042e-16
+    },
+    {
+      "geometry": "tree",
+      "case": "seed_47_breaks_1",
+      "maximum_detached_net_exchange_over_inlet": 2.458315692107345e-17
+    },
+    {
+      "geometry": "tree",
+      "case": "seed_47_breaks_2",
+      "maximum_detached_net_exchange_over_inlet": 1.2433563735521948e-17
+    },
+    {
+      "geometry": "tree",
+      "case": "seed_47_breaks_4",
+      "maximum_detached_net_exchange_over_inlet": 2.5602582848724264e-17
+    },
+    {
+      "geometry": "tree",
+      "case": "seed_47_breaks_8",
+      "maximum_detached_net_exchange_over_inlet": 7.62614397596055e-17
+    },
+    {
+      "geometry": "tree",
+      "case": "seed_47_breaks_16",
+      "maximum_detached_net_exchange_over_inlet": 1.1445927937137247e-16
+    },
+    {
+      "geometry": "tree",
+      "case": "seed_47_breaks_32",
+      "maximum_detached_net_exchange_over_inlet": 2.1259058044547305e-16
+    },
+    {
+      "geometry": "tree",
+      "case": "seed_83_breaks_1",
+      "maximum_detached_net_exchange_over_inlet": 3.760132289655899e-17
+    },
+    {
+      "geometry": "tree",
+      "case": "seed_83_breaks_2",
+      "maximum_detached_net_exchange_over_inlet": 7.096688854693624e-17
+    },
+    {
+      "geometry": "tree",
+      "case": "seed_83_breaks_4",
+      "maximum_detached_net_exchange_over_inlet": 9.790429752688865e-17
+    },
+    {
+      "geometry": "tree",
+      "case": "seed_83_breaks_8",
+      "maximum_detached_net_exchange_over_inlet": 1.5321522926331862e-16
+    },
+    {
+      "geometry": "tree",
+      "case": "seed_83_breaks_16",
+      "maximum_detached_net_exchange_over_inlet": 9.428840659058691e-17
+    },
+    {
+      "geometry": "tree",
+      "case": "seed_83_breaks_32",
+      "maximum_detached_net_exchange_over_inlet": 7.567685071767477e-17
+    },
+    {
+      "geometry": "tree",
+      "case": "seed_101_breaks_1",
+      "maximum_detached_net_exchange_over_inlet": 1.2298561749253597e-17
+    },
+    {
+      "geometry": "tree",
+      "case": "seed_101_breaks_2",
+      "maximum_detached_net_exchange_over_inlet": 3.8601669476537796e-17
+    },
+    {
+      "geometry": "tree",
+      "case": "seed_101_breaks_4",
+      "maximum_detached_net_exchange_over_inlet": 7.835487412388344e-17
+    },
+    {
+      "geometry": "tree",
+      "case": "seed_101_breaks_8",
+      "maximum_detached_net_exchange_over_inlet": 1.2520947287315075e-16
+    },
+    {
+      "geometry": "tree",
+      "case": "seed_101_breaks_16",
+      "maximum_detached_net_exchange_over_inlet": 1.3778730001532519e-16
+    },
+    {
+      "geometry": "tree",
+      "case": "seed_101_breaks_32",
+      "maximum_detached_net_exchange_over_inlet": 1.5289157366269368e-16
+    }
+  ],
+  "maximum_detached_net_exchange_over_inlet": 9.049269712627938e-16
+}

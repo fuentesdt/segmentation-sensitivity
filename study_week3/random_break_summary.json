@@ -1,0 +1,58 @@
+[
+  {
+    "breaks": 0,
+    "replicates": 1,
+    "flux_reduction_median_pct": 0.0,
+    "flux_reduction_min_pct": -0.0,
+    "flux_reduction_max_pct": -0.0,
+    "tissue_l2_error_median_pct": 0.0
+  },
+  {
+    "breaks": 1,
+    "replicates": 5,
+    "flux_reduction_median_pct": 0.029874365145454718,
+    "flux_reduction_min_pct": 0.029784286537959392,
+    "flux_reduction_max_pct": 5.391447905946034,
+    "tissue_l2_error_median_pct": 0.4859325951842871
+  },
+  {
+    "breaks": 2,
+    "replicates": 5,
+    "flux_reduction_median_pct": 0.23317428601218326,
+    "flux_reduction_min_pct": 0.05955906173676917,
+    "flux_reduction_max_pct": 5.423462396004785,
+    "tissue_l2_error_median_pct": 2.2966076066505425
+  },
+  {
+    "breaks": 4,
+    "replicates": 5,
+    "flux_reduction_median_pct": 1.535174047627319,
+    "flux_reduction_min_pct": 0.12302550849766503,
+    "flux_reduction_max_pct": 11.57160912108861,
+    "tissue_l2_error_median_pct": 7.179461891381858
+  },
+  {
+    "breaks": 8,
+    "replicates": 5,
+    "flux_reduction_median_pct": 11.420856658553136,
+    "flux_reduction_min_pct": 5.764955525480375,
+    "flux_reduction_max_pct": 37.57569630116663,
+    "tissue_l2_error_median_pct": 21.559801384105533
+  },
+  {
+    "breaks": 16,
+    "replicates": 5,
+    "flux_reduction_median_pct": 18.075720771099668,
+    "flux_reduction_min_pct": 8.212511984053705,
+    "flux_reduction_max_pct": 96.00009100230668,
+    "tissue_l2_error_median_pct": 29.38215656091788
+  },
+  {
+    "breaks": 32,
+    "replicates": 5,
+    "flux_reduction_median_pct": 53.210834582881695,
+    "flux_reduction_min_pct": 35.52167774724848,
+    "flux_reduction_max_pct": 96.00009101848515,
+    "tissue_l2_error_median_pct": 58.903362470070206
+  }
+]

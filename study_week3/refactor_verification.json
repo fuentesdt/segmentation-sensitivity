@@ -1,0 +1,59 @@
+{
+  "status": "passed",
+  "mpi_ranks": 2,
+  "cases": [
+    {
+      "case": "line_n8/gap_at_0.5",
+      "relative_differences": {
+        "inlet_flux": 0.0,
+        "wall_exchange": 0.0,
+        "tissue_mean_pressure": 2.2691713329570776e-14,
+        "tissue_l2_norm": 0.0,
+        "axial_flow_l2_norm": 0.0
+      }
+    },
+    {
+      "case": "line_n8/intact",
+      "relative_differences": {
+        "inlet_flux": 0.0,
+        "wall_exchange": 0.0,
+        "tissue_mean_pressure": 2.2588565100234394e-14,
+        "tissue_l2_norm": 0.0,
+        "axial_flow_l2_norm": 0.0
+      }
+    },
+    {
+      "case": "y_n8/gap_trunk",
+      "relative_differences": {
+        "inlet_flux": 0.0,
+        "wall_exchange": 0.0,
+        "tissue_mean_pressure": 2.2664556076835145e-14,
+        "tissue_l2_norm": 0.0,
+        "axial_flow_l2_norm": 0.0
+      }
+    },
+    {
+      "case": "y_n8/gap_upper",
+      "relative_differences": {
+        "inlet_flux": 0.0,
+        "wall_exchange": 0.0,
+        "tissue_mean_pressure": 2.2595447195085294e-14,
+        "tissue_l2_norm": 0.0,
+        "axial_flow_l2_norm": 0.0
+      }
+    },
+    {
+      "case": "y_n8/intact",
+      "relative_differences": {
+        "inlet_flux": 0.0,
+        "wall_exchange": 0.0,
+        "tissue_mean_pressure": 2.25988895346742e-14,
+        "tissue_l2_norm": 0.0,
+        "axial_flow_l2_norm": 0.0
+      }
+    }
+  ],
+  "local_network_mesh": true,
+  "installed_networks_fenicsx_imported": false,
+  "maximum_relative_difference": 2.2691713329570776e-14
+}

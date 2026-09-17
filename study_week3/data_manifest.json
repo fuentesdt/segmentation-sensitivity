@@ -1,0 +1,1886 @@
+[
+  {
+    "path": "oilblooddata/newdata/rsrch3/ip/dtfuentes/github/oncopigdata/vesseltraining/ZPAF23S018/20230531/PreTxArtLoRes.vessellabel_skel_centerline.vtp",
+    "bytes": 175720,
+    "compressed_bytes": 175720,
+    "crc32": 4015046573
+  },
+  {
+    "path": "oilblooddata/newdata/rsrch3/ip/dtfuentes/github/oncopigdata/vesseltraining/ZPAF23S018/20230531/PreTxArtLoRes.vessellabel_skel_centerline_pressure.vtp",
+    "bytes": 533372,
+    "compressed_bytes": 533372,
+    "crc32": 161421598
+  },
+  {
+    "path": "oilblooddata/newdata/rsrch3/ip/dtfuentes/github/oncopigdata/vesseltraining/ZPAF23S018/20230531/PstTxPreLoRes.vessellabel_skel_centerline.vtp",
+    "bytes": 36820,
+    "compressed_bytes": 36820,
+    "crc32": 4058402514
+  },
+  {
+    "path": "oilblooddata/newdata/rsrch3/ip/dtfuentes/github/oncopigdata/vesseltraining/ZPAF23S018/20230531/PstTxPreLoRes.vessellabel_skel_centerline_pressure.vtp",
+    "bytes": 90174,
+    "compressed_bytes": 90174,
+    "crc32": 887310562
+  },
+  {
+    "path": "oilblooddata/newdata/rsrch3/ip/dtfuentes/github/oncopigdata/vesseltraining/ZPAF23S019/20230412/PreTxArtLoRes.vessellabel_skel_centerline.vtp",
+    "bytes": 205032,
+    "compressed_bytes": 205032,
+    "crc32": 1292426069
+  },
+  {
+    "path": "oilblooddata/newdata/rsrch3/ip/dtfuentes/github/oncopigdata/vesseltraining/ZPAF23S019/20230412/PreTxArtLoRes.vessellabel_skel_centerline_pressure.vtp",
+    "bytes": 551337,
+    "compressed_bytes": 551337,
+    "crc32": 3582905851
+  },
+  {
+    "path": "oilblooddata/newdata/rsrch3/ip/dtfuentes/github/oncopigdata/vesseltraining/ZPAF23S019/20230412/PstTxPreLoRes.vessellabel_skel_centerline.vtp",
+    "bytes": 99512,
+    "compressed_bytes": 99512,
+    "crc32": 255625958
+  },
+  {
+    "path": "oilblooddata/newdata/rsrch3/ip/dtfuentes/github/oncopigdata/vesseltraining/ZPAF23S019/20230412/PstTxPreLoRes.vessellabel_skel_centerline_pressure.vtp",
+    "bytes": 313792,
+    "compressed_bytes": 313792,
+    "crc32": 416000136
+  },
+  {
+    "path": "oilblooddata/newdata/rsrch3/ip/dtfuentes/github/oncopigdata/vesseltraining/ZPAF23S020/20230418/PreTxArtLoRes.vessellabel_skel_centerline.vtp",
+    "bytes": 162443,
+    "compressed_bytes": 162443,
+    "crc32": 1962963909
+  },
+  {
+    "path": "oilblooddata/newdata/rsrch3/ip/dtfuentes/github/oncopigdata/vesseltraining/ZPAF23S020/20230418/PreTxArtLoRes.vessellabel_skel_centerline_pressure.vtp",
+    "bytes": 434563,
+    "compressed_bytes": 434563,
+    "crc32": 595344500
+  },
+  {
+    "path": "oilblooddata/newdata/rsrch3/ip/dtfuentes/github/oncopigdata/vesseltraining/ZPAF23S020/20230418/PstTxPreLoRes.vessellabel_skel_centerline.vtp",
+    "bytes": 40306,
+    "compressed_bytes": 40306,
+    "crc32": 4007745320
+  },
+  {
+    "path": "oilblooddata/newdata/rsrch3/ip/dtfuentes/github/oncopigdata/vesseltraining/ZPAF23S020/20230418/PstTxPreLoRes.vessellabel_skel_centerline_pressure.vtp",
+    "bytes": 119485,
+    "compressed_bytes": 119485,
+    "crc32": 4204109432
+  },
+  {
+    "path": "oilblooddata/newdata/rsrch3/ip/dtfuentes/github/oncopigdata/vesseltraining/ZPAF23S021/20230503/PreTxArtLoRes.vessellabel_skel_centerline.vtp",
+    "bytes": 164759,
+    "compressed_bytes": 164759,
+    "crc32": 1311903390
+  },
+  {
+    "path": "oilblooddata/newdata/rsrch3/ip/dtfuentes/github/oncopigdata/vesseltraining/ZPAF23S021/20230503/PreTxArtLoRes.vessellabel_skel_centerline_pressure.vtp",
+    "bytes": 440538,
+    "compressed_bytes": 440538,
+    "crc32": 2155584727
+  },
+  {
+    "path": "oilblooddata/newdata/rsrch3/ip/dtfuentes/github/oncopigdata/vesseltraining/ZPAF23S021/20230503/PstTxPreLoRes.vessellabel_skel_centerline.vtp",
+    "bytes": 45990,
+    "compressed_bytes": 45990,
+    "crc32": 3467609056
+  },
+  {
+    "path": "oilblooddata/newdata/rsrch3/ip/dtfuentes/github/oncopigdata/vesseltraining/ZPAF23S021/20230503/PstTxPreLoRes.vessellabel_skel_centerline_pressure.vtp",
+    "bytes": 115915,
+    "compressed_bytes": 115915,
+    "crc32": 3650468253
+  },
+  {
+    "path": "oilblooddata/newdata/rsrch3/ip/dtfuentes/github/oncopigdata/vesseltraining/ZPAF23S022/20230517/PreTxArtLoRes.vessellabel_skel_centerline.vtp",
+    "bytes": 215455,
+    "compressed_bytes": 215455,
+    "crc32": 2682617825
+  },
+  {
+    "path": "oilblooddata/newdata/rsrch3/ip/dtfuentes/github/oncopigdata/vesseltraining/ZPAF23S022/20230517/PreTxArtLoRes.vessellabel_skel_centerline_pressure.vtp",
+    "bytes": 644679,
+    "compressed_bytes": 644679,
+    "crc32": 2569101741
+  },
+  {
+    "path": "oilblooddata/newdata/rsrch3/ip/dtfuentes/github/oncopigdata/vesseltraining/ZPAF23S022/20230517/PstTxPreLoRes.vessellabel_skel_centerline.vtp",
+    "bytes": 28345,
+    "compressed_bytes": 28345,
+    "crc32": 78022391
+  },
+  {
+    "path": "oilblooddata/newdata/rsrch3/ip/dtfuentes/github/oncopigdata/vesseltraining/ZPAF23S022/20230517/PstTxPreLoRes.vessellabel_skel_centerline_pressure.vtp",
+    "bytes": 70549,
+    "compressed_bytes": 70549,
+    "crc32": 2550336041
+  },
+  {
+    "path": "oilblooddata/newdata/rsrch3/ip/dtfuentes/github/oncopigdata/vesseltraining/ZPAF23S023/20230524/PreTxArtLoRes.vessellabel_skel_centerline.vtp",
+    "bytes": 156283,
+    "compressed_bytes": 156283,
+    "crc32": 2356899650
+  },
+  {
+    "path": "oilblooddata/newdata/rsrch3/ip/dtfuentes/github/oncopigdata/vesseltraining/ZPAF23S023/20230524/PreTxArtLoRes.vessellabel_skel_centerline_pressure.vtp",
+    "bytes": 488454,
+    "compressed_bytes": 488454,
+    "crc32": 1771531250
+  },
+  {
+    "path": "oilblooddata/newdata/rsrch3/ip/dtfuentes/github/oncopigdata/vesseltraining/ZPAF23S023/20230524/PstTxPreLoRes.vessellabel_skel_centerline.vtp",
+    "bytes": 21811,
+    "compressed_bytes": 21811,
+    "crc32": 1591973545
+  },
+  {
+    "path": "oilblooddata/newdata/rsrch3/ip/dtfuentes/github/oncopigdata/vesseltraining/ZPAF23S023/20230524/PstTxPreLoRes.vessellabel_skel_centerline_pressure.vtp",
+    "bytes": 66896,
+    "compressed_bytes": 66896,
+    "crc32": 2620122273
+  },
+  {
+    "path": "oilblooddata/olddata/animation.gif",
+    "bytes": 10483147,
+    "compressed_bytes": 10483147,
+    "crc32": 1056614810
+  },
+  {
+    "path": "oilblooddata/olddata/CenterlineComputationModel.vtk",
+    "bytes": 101261,
+    "compressed_bytes": 101261,
+    "crc32": 949718872
+  },
+  {
+    "path": "oilblooddata/olddata/filtered_lines.vtk",
+    "bytes": 195979,
+    "compressed_bytes": 195979,
+    "crc32": 2646765371
+  },
+  {
+    "path": "oilblooddata/olddata/fluoro.nii.gz",
+    "bytes": 23523315,
+    "compressed_bytes": 23523315,
+    "crc32": 406712290
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.000.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 3595612648
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.001.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 1125646577
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.002.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 2059474099
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.003.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 514829956
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.004.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 151926904
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.005.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 2494812380
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.006.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 1743679771
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.007.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 3081556010
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.008.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 2236027536
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.009.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 68768238
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.010.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 3863183250
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.011.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 2372239289
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.012.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 3893862739
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.013.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 3731706911
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.014.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 1034420057
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.015.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 2879294474
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.016.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 2297134300
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.017.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 719034342
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.018.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 2506893953
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.019.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 4217209393
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.020.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 592044680
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.021.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 2724512612
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.022.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 3618120964
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.023.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 2286220138
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.024.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 1865124791
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.025.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 2722216579
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.026.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 2804542691
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.027.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 814225123
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.028.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 4280043420
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.029.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 2951356767
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.030.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 2124081817
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.031.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 1780441478
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.032.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 1225319662
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.033.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 3629236780
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.034.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 2538498154
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.035.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 3689682468
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.036.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 3336035379
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.037.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 3454403367
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.038.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 4092270594
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.039.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 34584633
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.040.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 2461395070
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.041.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 784375454
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.042.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 810203000
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.043.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 472008980
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.044.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 4138276875
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.045.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 2939209564
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.046.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 3076856036
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.047.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 2040620949
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.048.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 116102460
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.049.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 2703974496
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.050.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 3014561323
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.051.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 4146149089
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.052.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 1618859717
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.053.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 1859474751
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.054.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 2006260459
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.055.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 3993532056
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.056.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 1885398290
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.057.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 1651492672
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.058.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 3162828464
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.059.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 3182002016
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.060.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 2372781533
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.061.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 3986603498
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.062.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 2241618060
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.063.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 518416967
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.064.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 3558378759
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.065.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 4266656179
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.066.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 1243038627
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.067.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 3627170513
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.068.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 2138064556
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.069.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 1243603478
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.070.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 689542158
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.071.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 2653694446
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.072.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 1662705178
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.073.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 3594840219
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.074.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 744130949
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.075.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 2691521427
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.076.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 2877881064
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.077.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 2146856513
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.078.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 2680521066
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.079.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 2304583347
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.080.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 1610093695
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.081.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 373405216
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.082.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 1940125171
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.083.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 2148207022
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.084.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 2243338701
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.085.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 841479986
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.086.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 2796356880
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.087.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 1341968477
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.088.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 2588603372
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.089.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 709011045
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.090.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 376138340
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.091.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 3953992158
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.092.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 3516414771
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.093.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 2362399898
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.094.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 323542395
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.095.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 3559949153
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.096.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 1902239202
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.097.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 870352744
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.098.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 3248355863
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.099.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 1371580933
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.100.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 1135337210
+  },
+  {
+    "path": "oilblooddata/olddata/vessellabellm.101.vtk",
+    "bytes": 3146102,
+    "compressed_bytes": 3146102,
+    "crc32": 1670171296
+  },
+  {
+    "path": "oilblooddata/perfusiondeficit/pt002_seed.fcsv",
+    "bytes": 217,
+    "compressed_bytes": 217,
+    "crc32": 948399965
+  },
+  {
+    "path": "oilblooddata/perfusiondeficit/pt002_skel_seed.nii.gz",
+    "bytes": 15829,
+    "compressed_bytes": 15829,
+    "crc32": 1512229199
+  },
+  {
+    "path": "oilblooddata/perfusiondeficit/pt002_vessel_phantom.nii.gz",
+    "bytes": 43747,
+    "compressed_bytes": 43747,
+    "crc32": 2550567492
+  },
+  {
+    "path": "oilblooddata/perfusiondeficit/pt004_seed.fcsv",
+    "bytes": 216,
+    "compressed_bytes": 216,
+    "crc32": 1450825514
+  },
+  {
+    "path": "oilblooddata/perfusiondeficit/pt004_skel_seed.nii.gz",
+    "bytes": 30364,
+    "compressed_bytes": 30364,
+    "crc32": 2225300803
+  },
+  {
+    "path": "oilblooddata/perfusiondeficit/pt004_vessel_phantom.nii.gz",
+    "bytes": 70323,
+    "compressed_bytes": 70323,
+    "crc32": 2450187416
+  },
+  {
+    "path": "oilblooddata/perfusiondeficit/pt006_seed.fcsv",
+    "bytes": 216,
+    "compressed_bytes": 216,
+    "crc32": 2516646223
+  },
+  {
+    "path": "oilblooddata/perfusiondeficit/pt006_skel_seed.nii.gz",
+    "bytes": 18548,
+    "compressed_bytes": 18548,
+    "crc32": 1791458947
+  },
+  {
+    "path": "oilblooddata/perfusiondeficit/pt006_vessel_phantom.nii.gz",
+    "bytes": 45644,
+    "compressed_bytes": 45644,
+    "crc32": 1860576578
+  },
+  {
+    "path": "oilblooddata/perfusiondeficit/pt008_seed.fcsv",
+    "bytes": 216,
+    "compressed_bytes": 216,
+    "crc32": 3654236494
+  },
+  {
+    "path": "oilblooddata/perfusiondeficit/pt008_skel_seed.nii.gz",
+    "bytes": 57867,
+    "compressed_bytes": 57867,
+    "crc32": 880219086
+  },
+  {
+    "path": "oilblooddata/perfusiondeficit/pt008_vessel_phantom.nii.gz",
+    "bytes": 80884,
+    "compressed_bytes": 80884,
+    "crc32": 374204295
+  },
+  {
+    "path": "oilblooddata/perfusiondeficit/pt010_seed.fcsv",
+    "bytes": 216,
+    "compressed_bytes": 216,
+    "crc32": 1188472304
+  },
+  {
+    "path": "oilblooddata/perfusiondeficit/pt010_skel_seed.nii.gz",
+    "bytes": 21180,
+    "compressed_bytes": 21180,
+    "crc32": 1263738712
+  },
+  {
+    "path": "oilblooddata/perfusiondeficit/pt010_vessel_phantom.nii.gz",
+    "bytes": 64196,
+    "compressed_bytes": 64196,
+    "crc32": 3333982098
+  },
+  {
+    "path": "oilblooddata/perfusiondeficit/pt012_seed.fcsv",
+    "bytes": 216,
+    "compressed_bytes": 216,
+    "crc32": 2448786684
+  },
+  {
+    "path": "oilblooddata/perfusiondeficit/pt012_skel_seed.nii.gz",
+    "bytes": 29852,
+    "compressed_bytes": 29852,
+    "crc32": 3069850714
+  },
+  {
+    "path": "oilblooddata/perfusiondeficit/pt012_vessel_phantom.nii.gz",
+    "bytes": 67902,
+    "compressed_bytes": 67902,
+    "crc32": 2010504375
+  },
+  {
+    "path": "oilblooddata/perfusiondeficit/pt014_seed.fcsv",
+    "bytes": 216,
+    "compressed_bytes": 216,
+    "crc32": 528412393
+  },
+  {
+    "path": "oilblooddata/perfusiondeficit/pt014_skel_seed.nii.gz",
+    "bytes": 19790,
+    "compressed_bytes": 19790,
+    "crc32": 553292643
+  },
+  {
+    "path": "oilblooddata/perfusiondeficit/pt014_vessel_phantom.nii.gz",
+    "bytes": 59641,
+    "compressed_bytes": 59641,
+    "crc32": 2712783048
+  },
+  {
+    "path": "oilblooddata/perfusiondeficit/pt016_seed.fcsv",
+    "bytes": 216,
+    "compressed_bytes": 216,
+    "crc32": 1097543807
+  },
+  {
+    "path": "oilblooddata/perfusiondeficit/pt016_skel_seed.nii.gz",
+    "bytes": 29668,
+    "compressed_bytes": 29668,
+    "crc32": 1077966561
+  },
+  {
+    "path": "oilblooddata/perfusiondeficit/pt016_vessel_phantom.nii.gz",
+    "bytes": 68339,
+    "compressed_bytes": 68339,
+    "crc32": 370681543
+  },
+  {
+    "path": "oilblooddata/perfusiondeficit/pt018_seed.fcsv",
+    "bytes": 216,
+    "compressed_bytes": 216,
+    "crc32": 1729924553
+  },
+  {
+    "path": "oilblooddata/perfusiondeficit/pt018_skel_seed.nii.gz",
+    "bytes": 18910,
+    "compressed_bytes": 18910,
+    "crc32": 2743445485
+  },
+  {
+    "path": "oilblooddata/perfusiondeficit/pt018_vessel_phantom.nii.gz",
+    "bytes": 58292,
+    "compressed_bytes": 58292,
+    "crc32": 503322761
+  },
+  {
+    "path": "oilblooddata/perfusiondeficit/pt020_seed.fcsv",
+    "bytes": 216,
+    "compressed_bytes": 216,
+    "crc32": 68927001
+  },
+  {
+    "path": "oilblooddata/perfusiondeficit/pt020_skel_seed.nii.gz",
+    "bytes": 29316,
+    "compressed_bytes": 29316,
+    "crc32": 1026506969
+  },
+  {
+    "path": "oilblooddata/perfusiondeficit/pt020_vessel_phantom.nii.gz",
+    "bytes": 66082,
+    "compressed_bytes": 66082,
+    "crc32": 222122340
+  },
+  {
+    "path": "oilblooddata/perfusiondeficit/pt022_seed.fcsv",
+    "bytes": 217,
+    "compressed_bytes": 217,
+    "crc32": 1428262227
+  },
+  {
+    "path": "oilblooddata/perfusiondeficit/pt022_skel_seed.nii.gz",
+    "bytes": 21367,
+    "compressed_bytes": 21367,
+    "crc32": 3380601966
+  },
+  {
+    "path": "oilblooddata/perfusiondeficit/pt022_vessel_phantom.nii.gz",
+    "bytes": 53282,
+    "compressed_bytes": 53282,
+    "crc32": 3663226513
+  },
+  {
+    "path": "oilblooddata/perfusiondeficit/pt024_seed.fcsv",
+    "bytes": 215,
+    "compressed_bytes": 215,
+    "crc32": 3518334481
+  },
+  {
+    "path": "oilblooddata/perfusiondeficit/pt024_skel_seed.nii.gz",
+    "bytes": 21924,
+    "compressed_bytes": 21924,
+    "crc32": 3667457943
+  },
+  {
+    "path": "oilblooddata/perfusiondeficit/pt024_vessel_phantom.nii.gz",
+    "bytes": 51941,
+    "compressed_bytes": 51941,
+    "crc32": 962459737
+  },
+  {
+    "path": "oilblooddata/phantomdata/pt002_seed.fcsv",
+    "bytes": 215,
+    "compressed_bytes": 215,
+    "crc32": 3451770361
+  },
+  {
+    "path": "oilblooddata/phantomdata/pt002_skel_seed.nii.gz",
+    "bytes": 15356,
+    "compressed_bytes": 15356,
+    "crc32": 2988615217
+  },
+  {
+    "path": "oilblooddata/phantomdata/pt002_vessel_phantom.nii.gz",
+    "bytes": 41597,
+    "compressed_bytes": 41597,
+    "crc32": 3285915195
+  },
+  {
+    "path": "oilblooddata/phantomdata/pt004_seed.fcsv",
+    "bytes": 216,
+    "compressed_bytes": 216,
+    "crc32": 1450825514
+  },
+  {
+    "path": "oilblooddata/phantomdata/pt004_skel_seed.nii.gz",
+    "bytes": 29738,
+    "compressed_bytes": 29738,
+    "crc32": 1036522192
+  },
+  {
+    "path": "oilblooddata/phantomdata/pt004_vessel_phantom.nii.gz",
+    "bytes": 65251,
+    "compressed_bytes": 65251,
+    "crc32": 2830012508
+  },
+  {
+    "path": "oilblooddata/phantomdata/pt006_seed.fcsv",
+    "bytes": 216,
+    "compressed_bytes": 216,
+    "crc32": 3975278
+  },
+  {
+    "path": "oilblooddata/phantomdata/pt006_skel_seed.nii.gz",
+    "bytes": 18212,
+    "compressed_bytes": 18212,
+    "crc32": 471110292
+  },
+  {
+    "path": "oilblooddata/phantomdata/pt006_vessel_phantom.nii.gz",
+    "bytes": 43121,
+    "compressed_bytes": 43121,
+    "crc32": 2759266062
+  },
+  {
+    "path": "oilblooddata/phantomdata/pt008_seed.fcsv",
+    "bytes": 216,
+    "compressed_bytes": 216,
+    "crc32": 741658134
+  },
+  {
+    "path": "oilblooddata/phantomdata/pt008_skel_seed.nii.gz",
+    "bytes": 57524,
+    "compressed_bytes": 57524,
+    "crc32": 3783137761
+  },
+  {
+    "path": "oilblooddata/phantomdata/pt008_vessel_phantom.nii.gz",
+    "bytes": 77231,
+    "compressed_bytes": 77231,
+    "crc32": 634618096
+  },
+  {
+    "path": "oilblooddata/phantomdata/pt010_seed.fcsv",
+    "bytes": 216,
+    "compressed_bytes": 216,
+    "crc32": 860412129
+  },
+  {
+    "path": "oilblooddata/phantomdata/pt010_skel_seed.nii.gz",
+    "bytes": 20492,
+    "compressed_bytes": 20492,
+    "crc32": 83935784
+  },
+  {
+    "path": "oilblooddata/phantomdata/pt010_vessel_phantom.nii.gz",
+    "bytes": 60313,
+    "compressed_bytes": 60313,
+    "crc32": 884484917
+  },
+  {
+    "path": "oilblooddata/phantomdata/pt012_seed.fcsv",
+    "bytes": 216,
+    "compressed_bytes": 216,
+    "crc32": 2607027103
+  },
+  {
+    "path": "oilblooddata/phantomdata/pt012_skel_seed.nii.gz",
+    "bytes": 29231,
+    "compressed_bytes": 29231,
+    "crc32": 525399084
+  },
+  {
+    "path": "oilblooddata/phantomdata/pt012_vessel_phantom.nii.gz",
+    "bytes": 64888,
+    "compressed_bytes": 64888,
+    "crc32": 3292998771
+  },
+  {
+    "path": "oilblooddata/phantomdata/pt014_seed.fcsv",
+    "bytes": 216,
+    "compressed_bytes": 216,
+    "crc32": 3756977781
+  },
+  {
+    "path": "oilblooddata/phantomdata/pt014_skel_seed.nii.gz",
+    "bytes": 19545,
+    "compressed_bytes": 19545,
+    "crc32": 2625345474
+  },
+  {
+    "path": "oilblooddata/phantomdata/pt014_vessel_phantom.nii.gz",
+    "bytes": 57807,
+    "compressed_bytes": 57807,
+    "crc32": 750939505
+  },
+  {
+    "path": "oilblooddata/phantomdata/pt016_seed.fcsv",
+    "bytes": 216,
+    "compressed_bytes": 216,
+    "crc32": 4163750369
+  },
+  {
+    "path": "oilblooddata/phantomdata/pt016_skel_seed.nii.gz",
+    "bytes": 29121,
+    "compressed_bytes": 29121,
+    "crc32": 3235397430
+  },
+  {
+    "path": "oilblooddata/phantomdata/pt016_vessel_phantom.nii.gz",
+    "bytes": 64821,
+    "compressed_bytes": 64821,
+    "crc32": 3725332708
+  },
+  {
+    "path": "oilblooddata/phantomdata/pt018_seed.fcsv",
+    "bytes": 215,
+    "compressed_bytes": 215,
+    "crc32": 3014121732
+  },
+  {
+    "path": "oilblooddata/phantomdata/pt018_skel_seed.nii.gz",
+    "bytes": 18636,
+    "compressed_bytes": 18636,
+    "crc32": 3256682826
+  },
+  {
+    "path": "oilblooddata/phantomdata/pt018_vessel_phantom.nii.gz",
+    "bytes": 54983,
+    "compressed_bytes": 54983,
+    "crc32": 4290623695
+  },
+  {
+    "path": "oilblooddata/phantomdata/pt020_seed.fcsv",
+    "bytes": 216,
+    "compressed_bytes": 216,
+    "crc32": 1195648093
+  },
+  {
+    "path": "oilblooddata/phantomdata/pt020_skel_seed.nii.gz",
+    "bytes": 28817,
+    "compressed_bytes": 28817,
+    "crc32": 726785068
+  },
+  {
+    "path": "oilblooddata/phantomdata/pt020_vessel_phantom.nii.gz",
+    "bytes": 63413,
+    "compressed_bytes": 63413,
+    "crc32": 2832776617
+  },
+  {
+    "path": "oilblooddata/phantomdata/pt022_seed.fcsv",
+    "bytes": 217,
+    "compressed_bytes": 217,
+    "crc32": 420105469
+  },
+  {
+    "path": "oilblooddata/phantomdata/pt022_skel_seed.nii.gz",
+    "bytes": 21028,
+    "compressed_bytes": 21028,
+    "crc32": 1204909205
+  },
+  {
+    "path": "oilblooddata/phantomdata/pt022_vessel_phantom.nii.gz",
+    "bytes": 50804,
+    "compressed_bytes": 50804,
+    "crc32": 4164491911
+  },
+  {
+    "path": "oilblooddata/phantomdata/pt024_seed.fcsv",
+    "bytes": 215,
+    "compressed_bytes": 215,
+    "crc32": 1392983927
+  },
+  {
+    "path": "oilblooddata/phantomdata/pt024_skel_seed.nii.gz",
+    "bytes": 21546,
+    "compressed_bytes": 21546,
+    "crc32": 3608899543
+  },
+  {
+    "path": "oilblooddata/phantomdata/pt024_vessel_phantom.nii.gz",
+    "bytes": 49124,
+    "compressed_bytes": 49124,
+    "crc32": 1588955811
+  },
+  {
+    "path": "oilblooddata/phantomdata/README",
+    "bytes": 859,
+    "compressed_bytes": 859,
+    "crc32": 1416898007
+  },
+  {
+    "path": "oilblooddata/phantomdata/vessel_phantom_dashboard.png",
+    "bytes": 412048,
+    "compressed_bytes": 412048,
+    "crc32": 277068840
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/dashboard.html",
+    "bytes": 13061,
+    "compressed_bytes": 13061,
+    "crc32": 244479467
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt002/mesh.exo",
+    "bytes": 4742974,
+    "compressed_bytes": 4742974,
+    "crc32": 4291743648
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt002/pt002_inflow_centerline.vtp",
+    "bytes": 124643,
+    "compressed_bytes": 124643,
+    "crc32": 324763680
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt002/pt002_inflow_raw.vtp",
+    "bytes": 46673,
+    "compressed_bytes": 46673,
+    "crc32": 3411808608
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt002/pt002_inflow_skel.nii.gz",
+    "bytes": 64264,
+    "compressed_bytes": 64264,
+    "crc32": 1614835400
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt002/pt002_outflow_centerline.vtp",
+    "bytes": 188611,
+    "compressed_bytes": 188611,
+    "crc32": 4160050469
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt002/pt002_outflow_raw.vtp",
+    "bytes": 70244,
+    "compressed_bytes": 70244,
+    "crc32": 1960236669
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt002/pt002_outflow_skel.nii.gz",
+    "bytes": 65434,
+    "compressed_bytes": 65434,
+    "crc32": 1630912104
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt002/surface.vtp",
+    "bytes": 619519,
+    "compressed_bytes": 619519,
+    "crc32": 361946892
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt002/vessel.vtk",
+    "bytes": 56623318,
+    "compressed_bytes": 56623318,
+    "crc32": 3354481213
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt004/mesh.exo",
+    "bytes": 7519694,
+    "compressed_bytes": 7519694,
+    "crc32": 3966551695
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt004/pt004_inflow_centerline.vtp",
+    "bytes": 115140,
+    "compressed_bytes": 115140,
+    "crc32": 3850653877
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt004/pt004_inflow_raw.vtp",
+    "bytes": 48853,
+    "compressed_bytes": 48853,
+    "crc32": 1272124323
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt004/pt004_inflow_skel.nii.gz",
+    "bytes": 129146,
+    "compressed_bytes": 129146,
+    "crc32": 2564076034
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt004/pt004_outflow_centerline.vtp",
+    "bytes": 229457,
+    "compressed_bytes": 229457,
+    "crc32": 1314678325
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt004/pt004_outflow_raw.vtp",
+    "bytes": 95419,
+    "compressed_bytes": 95419,
+    "crc32": 3642554330
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt004/pt004_outflow_skel.nii.gz",
+    "bytes": 131114,
+    "compressed_bytes": 131114,
+    "crc32": 3345453669
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt004/surface.vtp",
+    "bytes": 894636,
+    "compressed_bytes": 894636,
+    "crc32": 4240603985
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt004/vessel.vtk",
+    "bytes": 116392151,
+    "compressed_bytes": 116392151,
+    "crc32": 1019254315
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt006/mesh.exo",
+    "bytes": 6197678,
+    "compressed_bytes": 6197678,
+    "crc32": 2289178713
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt006/pt006_inflow_centerline.vtp",
+    "bytes": 94549,
+    "compressed_bytes": 94549,
+    "crc32": 2214394709
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt006/pt006_inflow_raw.vtp",
+    "bytes": 40149,
+    "compressed_bytes": 40149,
+    "crc32": 3311910606
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt006/pt006_inflow_skel.nii.gz",
+    "bytes": 78412,
+    "compressed_bytes": 78412,
+    "crc32": 3541494302
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt006/pt006_outflow_centerline.vtp",
+    "bytes": 186061,
+    "compressed_bytes": 186061,
+    "crc32": 2188264338
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt006/pt006_outflow_raw.vtp",
+    "bytes": 76580,
+    "compressed_bytes": 76580,
+    "crc32": 2592286615
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt006/pt006_outflow_skel.nii.gz",
+    "bytes": 80112,
+    "compressed_bytes": 80112,
+    "crc32": 2224811477
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt006/surface.vtp",
+    "bytes": 746232,
+    "compressed_bytes": 746232,
+    "crc32": 2114880215
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt006/vessel.vtk",
+    "bytes": 70254805,
+    "compressed_bytes": 70254805,
+    "crc32": 1072853020
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt008/mesh.exo",
+    "bytes": 4070758,
+    "compressed_bytes": 4070758,
+    "crc32": 2767967884
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt008/pt008_inflow_centerline.vtp",
+    "bytes": 67627,
+    "compressed_bytes": 67627,
+    "crc32": 2789604758
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt008/pt008_inflow_raw.vtp",
+    "bytes": 24927,
+    "compressed_bytes": 24927,
+    "crc32": 1164260257
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt008/pt008_inflow_skel.nii.gz",
+    "bytes": 255478,
+    "compressed_bytes": 255478,
+    "crc32": 668160560
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt008/pt008_outflow_centerline.vtp",
+    "bytes": 154703,
+    "compressed_bytes": 154703,
+    "crc32": 295561948
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt008/pt008_outflow_raw.vtp",
+    "bytes": 55822,
+    "compressed_bytes": 55822,
+    "crc32": 1716417339
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt008/pt008_outflow_skel.nii.gz",
+    "bytes": 257173,
+    "compressed_bytes": 257173,
+    "crc32": 831469842
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt008/surface.vtp",
+    "bytes": 548823,
+    "compressed_bytes": 548823,
+    "crc32": 3917951324
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt008/vessel.vtk",
+    "bytes": 232784086,
+    "compressed_bytes": 232784086,
+    "crc32": 133654552
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt010/mesh.exo",
+    "bytes": 7232582,
+    "compressed_bytes": 7232582,
+    "crc32": 3124347693
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt010/pt010_inflow_centerline.vtp",
+    "bytes": 138399,
+    "compressed_bytes": 138399,
+    "crc32": 2889266787
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt010/pt010_inflow_raw.vtp",
+    "bytes": 58966,
+    "compressed_bytes": 58966,
+    "crc32": 48842847
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt010/pt010_inflow_skel.nii.gz",
+    "bytes": 86395,
+    "compressed_bytes": 86395,
+    "crc32": 2349796482
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt010/pt010_outflow_centerline.vtp",
+    "bytes": 287197,
+    "compressed_bytes": 287197,
+    "crc32": 2401194938
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt010/pt010_outflow_raw.vtp",
+    "bytes": 118425,
+    "compressed_bytes": 118425,
+    "crc32": 2299481448
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt010/pt010_outflow_skel.nii.gz",
+    "bytes": 88976,
+    "compressed_bytes": 88976,
+    "crc32": 4155371164
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt010/surface.vtp",
+    "bytes": 884934,
+    "compressed_bytes": 884934,
+    "crc32": 441971095
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt010/vessel.vtk",
+    "bytes": 76546262,
+    "compressed_bytes": 76546262,
+    "crc32": 1345743021
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt012/mesh.exo",
+    "bytes": 6529486,
+    "compressed_bytes": 6529486,
+    "crc32": 3637935870
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt012/pt012_inflow_centerline.vtp",
+    "bytes": 134351,
+    "compressed_bytes": 134351,
+    "crc32": 1255616808
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt012/pt012_inflow_raw.vtp",
+    "bytes": 47836,
+    "compressed_bytes": 47836,
+    "crc32": 3730053178
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt012/pt012_inflow_skel.nii.gz",
+    "bytes": 126274,
+    "compressed_bytes": 126274,
+    "crc32": 609090529
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt012/pt012_outflow_centerline.vtp",
+    "bytes": 243805,
+    "compressed_bytes": 243805,
+    "crc32": 3226900357
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt012/pt012_outflow_raw.vtp",
+    "bytes": 86743,
+    "compressed_bytes": 86743,
+    "crc32": 3676440012
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt012/pt012_outflow_skel.nii.gz",
+    "bytes": 128426,
+    "compressed_bytes": 128426,
+    "crc32": 181012198
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt012/surface.vtp",
+    "bytes": 801256,
+    "compressed_bytes": 801256,
+    "crc32": 634055453
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt012/vessel.vtk",
+    "bytes": 113246421,
+    "compressed_bytes": 113246421,
+    "crc32": 2620704174
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt014/mesh.exo",
+    "bytes": 6704486,
+    "compressed_bytes": 6704486,
+    "crc32": 423336793
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt014/pt014_inflow_centerline.vtp",
+    "bytes": 261499,
+    "compressed_bytes": 261499,
+    "crc32": 2370916909
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt014/pt014_inflow_raw.vtp",
+    "bytes": 106680,
+    "compressed_bytes": 106680,
+    "crc32": 1181434894
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt014/pt014_inflow_skel.nii.gz",
+    "bytes": 80009,
+    "compressed_bytes": 80009,
+    "crc32": 3523468443
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt014/pt014_outflow_centerline.vtp",
+    "bytes": 220060,
+    "compressed_bytes": 220060,
+    "crc32": 434059440
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt014/pt014_outflow_raw.vtp",
+    "bytes": 92637,
+    "compressed_bytes": 92637,
+    "crc32": 1913758086
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt014/pt014_outflow_skel.nii.gz",
+    "bytes": 79731,
+    "compressed_bytes": 79731,
+    "crc32": 1943990050
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt014/surface.vtp",
+    "bytes": 859470,
+    "compressed_bytes": 859470,
+    "crc32": 4167236676
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt014/vessel.vtk",
+    "bytes": 69206230,
+    "compressed_bytes": 69206230,
+    "crc32": 236977872
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt016/mesh.exo",
+    "bytes": 6378270,
+    "compressed_bytes": 6378270,
+    "crc32": 543247189
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt016/pt016_inflow_centerline.vtp",
+    "bytes": 135125,
+    "compressed_bytes": 135125,
+    "crc32": 4287527592
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt016/pt016_inflow_raw.vtp",
+    "bytes": 55899,
+    "compressed_bytes": 55899,
+    "crc32": 1420147942
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt016/pt016_inflow_skel.nii.gz",
+    "bytes": 125985,
+    "compressed_bytes": 125985,
+    "crc32": 3226816037
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt016/pt016_outflow_centerline.vtp",
+    "bytes": 259321,
+    "compressed_bytes": 259321,
+    "crc32": 4053524564
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt016/pt016_outflow_raw.vtp",
+    "bytes": 105140,
+    "compressed_bytes": 105140,
+    "crc32": 3973551322
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt016/pt016_outflow_skel.nii.gz",
+    "bytes": 128406,
+    "compressed_bytes": 128406,
+    "crc32": 1182895484
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt016/surface.vtp",
+    "bytes": 762672,
+    "compressed_bytes": 762672,
+    "crc32": 2227210896
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt016/vessel.vtk",
+    "bytes": 113246423,
+    "compressed_bytes": 113246423,
+    "crc32": 3559321789
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt018/mesh.exo",
+    "bytes": 6365806,
+    "compressed_bytes": 6365806,
+    "crc32": 865035708
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt018/pt018_inflow_centerline.vtp",
+    "bytes": 206260,
+    "compressed_bytes": 206260,
+    "crc32": 1168389190
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt018/pt018_inflow_raw.vtp",
+    "bytes": 73326,
+    "compressed_bytes": 73326,
+    "crc32": 414379606
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt018/pt018_inflow_skel.nii.gz",
+    "bytes": 76873,
+    "compressed_bytes": 76873,
+    "crc32": 123261361
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt018/pt018_outflow_centerline.vtp",
+    "bytes": 204904,
+    "compressed_bytes": 204904,
+    "crc32": 2710937434
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt018/pt018_outflow_raw.vtp",
+    "bytes": 77388,
+    "compressed_bytes": 77388,
+    "crc32": 1695090208
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt018/pt018_outflow_skel.nii.gz",
+    "bytes": 77434,
+    "compressed_bytes": 77434,
+    "crc32": 334595707
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt018/surface.vtp",
+    "bytes": 860776,
+    "compressed_bytes": 860776,
+    "crc32": 375073983
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt018/vessel.vtk",
+    "bytes": 67109078,
+    "compressed_bytes": 67109078,
+    "crc32": 737673889
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt020/mesh.exo",
+    "bytes": 6687310,
+    "compressed_bytes": 6687310,
+    "crc32": 2727655286
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt020/pt020_inflow_centerline.vtp",
+    "bytes": 127156,
+    "compressed_bytes": 127156,
+    "crc32": 3329572167
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt020/pt020_inflow_raw.vtp",
+    "bytes": 50798,
+    "compressed_bytes": 50798,
+    "crc32": 240818
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt020/pt020_inflow_skel.nii.gz",
+    "bytes": 124706,
+    "compressed_bytes": 124706,
+    "crc32": 1281147175
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt020/pt020_outflow_centerline.vtp",
+    "bytes": 210806,
+    "compressed_bytes": 210806,
+    "crc32": 2765427039
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt020/pt020_outflow_raw.vtp",
+    "bytes": 84259,
+    "compressed_bytes": 84259,
+    "crc32": 151948589
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt020/pt020_outflow_skel.nii.gz",
+    "bytes": 126469,
+    "compressed_bytes": 126469,
+    "crc32": 3330408134
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt020/surface.vtp",
+    "bytes": 878423,
+    "compressed_bytes": 878423,
+    "crc32": 2880612828
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt020/vessel.vtk",
+    "bytes": 112197847,
+    "compressed_bytes": 112197847,
+    "crc32": 2533022117
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt022/mesh.exo",
+    "bytes": 5008406,
+    "compressed_bytes": 5008406,
+    "crc32": 1665035570
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt022/pt022_inflow_centerline.vtp",
+    "bytes": 128889,
+    "compressed_bytes": 128889,
+    "crc32": 1399828474
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt022/pt022_inflow_raw.vtp",
+    "bytes": 46149,
+    "compressed_bytes": 46149,
+    "crc32": 3537910996
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt022/pt022_inflow_skel.nii.gz",
+    "bytes": 89587,
+    "compressed_bytes": 89587,
+    "crc32": 2341746835
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt022/pt022_outflow_centerline.vtp",
+    "bytes": 213820,
+    "compressed_bytes": 213820,
+    "crc32": 1886490523
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt022/pt022_outflow_raw.vtp",
+    "bytes": 75483,
+    "compressed_bytes": 75483,
+    "crc32": 2495709774
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt022/pt022_outflow_skel.nii.gz",
+    "bytes": 91083,
+    "compressed_bytes": 91083,
+    "crc32": 249516326
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt022/surface.vtp",
+    "bytes": 699283,
+    "compressed_bytes": 699283,
+    "crc32": 1178710416
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt022/vessel.vtk",
+    "bytes": 79691988,
+    "compressed_bytes": 79691988,
+    "crc32": 1642289328
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt024/mesh.exo",
+    "bytes": 4303438,
+    "compressed_bytes": 4303438,
+    "crc32": 3408499234
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt024/pt024_inflow_centerline.vtp",
+    "bytes": 104259,
+    "compressed_bytes": 104259,
+    "crc32": 41943659
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt024/pt024_inflow_raw.vtp",
+    "bytes": 34818,
+    "compressed_bytes": 34818,
+    "crc32": 482634718
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt024/pt024_inflow_skel.nii.gz",
+    "bytes": 92638,
+    "compressed_bytes": 92638,
+    "crc32": 3653941204
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt024/pt024_outflow_centerline.vtp",
+    "bytes": 163026,
+    "compressed_bytes": 163026,
+    "crc32": 3785773865
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt024/pt024_outflow_raw.vtp",
+    "bytes": 56331,
+    "compressed_bytes": 56331,
+    "crc32": 3624409477
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt024/pt024_outflow_skel.nii.gz",
+    "bytes": 93927,
+    "compressed_bytes": 93927,
+    "crc32": 892973577
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt024/surface.vtp",
+    "bytes": 624501,
+    "compressed_bytes": 624501,
+    "crc32": 3131274979
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/pt024/vessel.vtk",
+    "bytes": 82837716,
+    "compressed_bytes": 82837716,
+    "crc32": 2233328895
+  },
+  {
+    "path": "oilblooddata/thermoembo_run/README",
+    "bytes": 844,
+    "compressed_bytes": 844,
+    "crc32": 1750132053
+  }
+]

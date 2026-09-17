@@ -1,0 +1,45 @@
+{
+  "dataset": "pt002",
+  "network": "inflow",
+  "label": 2,
+  "archive": "/projects/br1/pzz1/segmentation-sensitivity/oilblooddata.zip",
+  "input_sha256": {
+    "oilblooddata/thermoembo_run/pt002/mesh.exo": "4b11426f3fc5b9290194f411bcaf125903989d80c167be5143f3e2473fc3d401",
+    "oilblooddata/thermoembo_run/pt002/pt002_inflow_centerline.vtp": "96bbf9fd7cb5669e67cd845c802d541f27e9688a821a495f78a4570f06f4e3f5"
+  },
+  "original_network_points": 797,
+  "original_network_edges": 828,
+  "components": 1,
+  "endpoints": 55,
+  "cycle_rank": 32,
+  "maximum_vertex_degree": 4,
+  "phantom_marked_edges": 83,
+  "original_tissue_vertices": 27947,
+  "original_tissue_tetrahedra": 126569,
+  "tissue_volume_m3": 0.0008876091297078323,
+  "original_network_length_mm": 1589.2044809670806,
+  "radius_mm": 0.1,
+  "normalized_radius": 0.0004941186192303946,
+  "origin_m": [
+    -0.11389311981201172,
+    0.041460384368896486,
+    0.408371337890625
+  ],
+  "length_scale_m": 0.20238055419921874,
+  "coordinate_transform": "x_dimensionless = (x_metres - origin_m) / length_scale_m; VTP millimetres are first multiplied by 0.001",
+  "inlet_original_point_id": 0,
+  "inlet_original_coordinates_mm": [
+    66.1982421875,
+    99.6728515625,
+    475.5
+  ],
+  "inlet_dimensionless_coordinates": [
+    0.8898649512651989,
+    0.2876386391169801,
+    0.3316952183226809
+  ],
+  "inlet_selection": "Unique degree-one vertex with highest archived pressure_mmhg among all endpoints",
+  "inlet_archived_pressure_mmhg": 836.0,
+  "archived_pressure_use": "Inlet selection only; archived pressures and flows are not boundary data or validation targets for this different model",
+  "geometry_policy": "Retain all original edges, cycles, and phantom-marked edges; only subdivide long cells for the finite element solve"
+}
